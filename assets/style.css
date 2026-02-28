@@ -1,0 +1,211 @@
+/* 科技日报 - 主样式 */
+:root {
+  --bg: #0f1117;
+  --bg2: #1a1d27;
+  --bg3: #22263a;
+  --accent: #4f8ef7;
+  --accent2: #7c3aed;
+  --text: #e2e8f0;
+  --text2: #94a3b8;
+  --border: #2d3748;
+  --card-bg: #1e2235;
+  --radius: 12px;
+  --shadow: 0 4px 24px rgba(0,0,0,0.4);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  min-height: 100vh;
+}
+
+/* ── Header ── */
+.site-header {
+  background: linear-gradient(135deg, #1a1d27 0%, #0f1117 100%);
+  border-bottom: 1px solid var(--border);
+  padding: 2rem 0 1.5rem;
+}
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+.logo {
+  font-size: 2rem;
+  font-weight: 800;
+  background: linear-gradient(90deg, var(--accent), var(--accent2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: -0.5px;
+}
+.tagline {
+  color: var(--text2);
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+
+/* ── Date Nav ── */
+.date-nav {
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  padding: 0.75rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(8px);
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.nav-label {
+  color: var(--text2);
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+.date-nav a {
+  color: var(--text2);
+  text-decoration: none;
+  font-size: 0.82rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  transition: all 0.2s;
+}
+.date-nav a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: rgba(79,142,247,0.08);
+}
+.date-nav a.active {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: rgba(79,142,247,0.12);
+  font-weight: 600;
+}
+
+/* ── Main ── */
+.main-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+.page-meta {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.page-date {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--text);
+}
+.meta-info {
+  color: var(--text2);
+  font-size: 0.88rem;
+  margin-top: 0.4rem;
+}
+.meta-info strong { color: var(--accent); }
+
+/* ── Category Section ── */
+.category-section { margin-bottom: 2.5rem; }
+.category-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 1rem;
+  padding: 0.5rem 0.8rem;
+  background: var(--bg3);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.count {
+  font-size: 0.8rem;
+  color: var(--text2);
+  font-weight: 400;
+}
+
+/* ── Cards ── */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+}
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+  transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.card:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: var(--shadow);
+}
+.card h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.card h3 a {
+  color: var(--text);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.card h3 a:hover { color: var(--accent); }
+.summary {
+  font-size: 0.82rem;
+  color: var(--text2);
+  line-height: 1.6;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card footer { margin-top: auto; }
+.source-badge {
+  font-size: 0.75rem;
+  color: var(--text2);
+  background: var(--bg3);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+}
+
+/* ── Footer ── */
+.site-footer {
+  background: var(--bg2);
+  border-top: 1px solid var(--border);
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--text2);
+  font-size: 0.82rem;
+  line-height: 2;
+}
+.site-footer a { color: var(--accent); text-decoration: none; }
+.site-footer a:hover { text-decoration: underline; }
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .logo { font-size: 1.5rem; }
+  .cards-grid { grid-template-columns: 1fr; }
+  .page-date { font-size: 1.2rem; }
+}
