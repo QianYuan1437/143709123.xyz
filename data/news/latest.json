@@ -1,0 +1,583 @@
+{
+  "date": "2026-02-28",
+  "generated_at": "2026-02-28T17:24:16.268080+08:00",
+  "total": 64,
+  "articles": [
+    {
+      "title": "We Will Not Be Divided",
+      "url": "https://notdivided.org",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 28 Feb 2026 00:54:53 +0000"
+    },
+    {
+      "title": "How do I cancel my ChatGPT subscription?",
+      "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 28 Feb 2026 05:55:01 +0000"
+    },
+    {
+      "title": "Croatia declared free of landmines after 31 years",
+      "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 28 Feb 2026 02:48:16 +0000"
+    },
+    {
+      "title": "Don't use passkeys for encrypting user data",
+      "url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 28 Feb 2026 03:11:40 +0000"
+    },
+    {
+      "title": "Rust Is Just a Tool",
+      "url": "https://lewiscampbell.tech/blog/260204.html",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 28 Feb 2026 05:47:39 +0000"
+    },
+    {
+      "title": "Cash issuing terminals",
+      "url": "https://computer.rip/2026-02-27-ibm-atm.html",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 28 Feb 2026 05:21:21 +0000"
+    },
+    {
+      "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+      "url": "https://twitter.com/sama/status/2027578652477821175",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 28 Feb 2026 02:59:02 +0000"
+    },
+    {
+      "title": "Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)",
+      "url": "https://github.com/maloyan/manim-web",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Feb 2026 18:15:07 +0000"
+    },
+    {
+      "title": "Tenways nearly perfects the shareable city e-bike",
+      "url": "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable",
+      "summary": "Good electric bikes are expensive. So why not buy one and share it? That's the idea behind the Tenways CGO Compact e-bike I've been sharing with my wife and teenage daughter for the last two weeks. It adapts in seconds without any tools to comfortably fit riders of varying heights thanks to its low-",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-28T03:00:00-05:00"
+    },
+    {
+      "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+      "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+      "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic sa",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-27T21:19:16-05:00"
+    },
+    {
+      "title": "The best instant cameras you can buy right now",
+      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "summary": "Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured b",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-27T19:32:11-05:00"
+    },
+    {
+      "title": "NASA is pushing back its plans for a Moon landing",
+      "url": "https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028",
+      "summary": "NASA announced at a press conference on Friday that it's delaying its plans for a Moon landing until Artemis IV in 2028. The Artemis III mission, scheduled for 2027, was originally going to attempt to land on the Moon but will now be a test flight instead. NASA also says it's \"increasing its cadence",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-27T18:11:40-05:00"
+    },
+    {
+      "title": "Warner Bros. Discovery agrees to $110 billion Paramount merger",
+      "url": "https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement",
+      "summary": "Warner Bros. Discovery and Paramount Skydance's merger agreement is now official. On Friday, the two companies announced plans to merge into a massive media company that will fold WBD's studio, linear channels, streaming service, and gaming segment into Paramount. Though WBD initially signed onto an",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-27T16:43:37-05:00"
+    },
+    {
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "summary": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement w",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-27T16:30:47-05:00"
+    },
+    {
+      "title": "The Trump phone sure looks a lot like this HTC handset",
+      "url": "https://www.theverge.com/tech/886135/trump-mobile-t1-phone-htc-u24-pro",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts, and have stopped getting a response. This week, thanks to a reader tip, we think we've found the original phone the T1 is based on. A long time ago, back",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-27T14:27:12-05:00"
+    },
+    {
+      "title": "CISA is getting a new acting director after less than a year",
+      "url": "https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA), which is part of the Department of Homeland Security, is getting a new acting director, as reported by ABC, less than a year after Madhu Gottumukkala took charge of the agency as deputy director and acting director in May 2025. CISA's e",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-02-27T14:06:25-05:00"
+    },
+    {
+      "title": "India disrupts access to popular developer platform Supabase with blocking order",
+      "url": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+      "summary": "India, one of Supabase’s biggest markets, is seeing patchy access after a government block order.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 28 Feb 2026 03:51:52 +0000"
+    },
+    {
+      "title": "OpenAI fires employee for using confidential info on prediction markets",
+      "url": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+      "summary": "The company said such trades violates its internal company policies about using confidential information for personal gain.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Fri, 27 Feb 2026 23:00:54 +0000"
+    },
+    {
+      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+      "summary": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Fri, 27 Feb 2026 21:53:14 +0000"
+    },
+    {
+      "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+      "url": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+      "summary": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Fri, 27 Feb 2026 19:42:00 +0000"
+    },
+    {
+      "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+      "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+      "summary": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Fri, 27 Feb 2026 19:11:04 +0000"
+    },
+    {
+      "title": "ChatGPT reaches 900M weekly active users",
+      "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+      "summary": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Fri, 27 Feb 2026 18:25:51 +0000"
+    },
+    {
+      "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+      "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+      "summary": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Fri, 27 Feb 2026 17:22:02 +0000"
+    },
+    {
+      "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
+      "url": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
+      "summary": "As Netflix continues its live sports push, the company has partnered with Apple to air the Formula 1 Canadian Grand Prix.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Fri, 27 Feb 2026 17:17:18 +0000"
+    },
+    {
+      "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+      "summary": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 28 Feb 2026 03:30:41 +0000"
+    },
+    {
+      "title": "18 Best Wireless Chargers, All Tested and Reviewed (2026)",
+      "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+      "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Feb 2026 23:51:20 +0000"
+    },
+    {
+      "title": "These Deals Can Have You Zipping Around on a New E-Scooter This Spring",
+      "url": "https://www.wired.com/story/electric-scooters-spring-deals-2026/",
+      "summary": "With spring just around the corner, now's the smart time to snag an electric scooter.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Feb 2026 21:55:44 +0000"
+    },
+    {
+      "title": "Trump Moves to Ban Anthropic From the US Government",
+      "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+      "summary": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Feb 2026 21:36:31 +0000"
+    },
+    {
+      "title": "The Best Roku Is $20 Off",
+      "url": "https://www.wired.com/story/roku-ultra-deal-226/",
+      "summary": "The Roku Ultra isn’t just speedier, it also offers some advanced features that some viewers will find really handy.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Feb 2026 20:38:58 +0000"
+    },
+    {
+      "title": "What's an E-Bike? California Wants You to Know",
+      "url": "https://www.wired.com/story/what-is-an-e-bike-california-might-find-out/",
+      "summary": "Cities want to stop kids from getting hurt. A lawmaker thinks warning them away from legal gray-area “e-motos” could help.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Feb 2026 19:39:15 +0000"
+    },
+    {
+      "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+      "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+      "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Feb 2026 19:07:28 +0000"
+    },
+    {
+      "title": "Everything Larry and David Ellison Will Control If Paramount Buys Warner Bros.",
+      "url": "https://www.wired.com/story/everything-the-ellison-family-will-control-if-paramount-acquires-warner-brothers-discovery/",
+      "summary": "Paramount Skydance’s sprawling media empire will get a major boost if the deal is approved.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Feb 2026 19:01:01 +0000"
+    },
+    {
+      "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+      "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+      "summary": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.  The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication’s Power Hungry package",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 27 Feb 2026 21:41:31 +0000"
+    },
+    {
+      "title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+      "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go playe",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 27 Feb 2026 13:10:00 +0000"
+    },
+    {
+      "title": "AI is rewiring how the world’s best Go players think",
+      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.  But inside the building, rooms once f",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 27 Feb 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the pur",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 26 Feb 2026 15:00:59 +0000"
+    },
+    {
+      "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+      "url": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars cove",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 26 Feb 2026 13:10:00 +0000"
+    },
+    {
+      "title": "This company claims a battery breakthrough. Now they need to prove it.",
+      "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale product",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 26 Feb 2026 11:00:00 +0000"
+    },
+    {
+      "title": "America was winning the race to find Martian life. Then China jumped in.",
+      "url": "https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/",
+      "summary": "To most people, rocks are just rocks. To geologists, they are much, much more: crystal-filled time capsules with the power to reveal the state of the planet at the very moment they were forged.  For decades, NASA had been on a time capsule hunt like none other—one across Mars. Its rovers have journe",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 26 Feb 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
+      "url": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
+      "summary": "Listen to the session or watch below Sodium-based batteries could be a cheaper, safer alternative to lithium-ion, and the technology is finally making its way into cars—and energy storage arrays on the grid. Sodium-ion batteries are one of MIT Technology Review’s 10 Breakthrough Technologies of 2026",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 25 Feb 2026 21:15:27 +0000"
+    },
+    {
+      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+      "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 28 Feb 2026 01:26:41 +0000"
+    },
+    {
+      "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
+      "url": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+      "summary": "\"There were assumptions that were made in the strategy that obviously didn’t come to fruition.\"",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 28 Feb 2026 00:32:24 +0000"
+    },
+    {
+      "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
+      "url": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
+      "summary": "Can two declining companies form a profitable one?",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Feb 2026 22:39:00 +0000"
+    },
+    {
+      "title": "Photons that aren't actually there influence superconductivity",
+      "url": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
+      "summary": "Interactions between neighboring materials is mediated by virtual photons.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Feb 2026 21:27:33 +0000"
+    },
+    {
+      "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
+      "url": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
+      "summary": "Trump admin \"incompetence continues to cause chaos in our skies,\" Duckworth says.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Feb 2026 19:14:51 +0000"
+    },
+    {
+      "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
+      "url": "https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/",
+      "summary": "Director Gore Verbinksi and screenwriter Matthew Robinson on the making of this darkly satirical sci-fi film.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Feb 2026 19:04:23 +0000"
+    },
+    {
+      "title": "Hyperion author Dan Simmons dies from stroke at 77",
+      "url": "https://arstechnica.com/culture/2026/02/hyperion-author-dan-simmons-dies-from-stroke-at-77/",
+      "summary": "I went into Hyperion blind, decades ago, knowing almost nothing about it. I was never the same.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Feb 2026 18:36:04 +0000"
+    },
+    {
+      "title": "How strong is New York's \"illegal gambling\" case against Valve's loot boxes?",
+      "url": "https://arstechnica.com/gaming/2026/02/how-strong-is-new-yorks-illegal-gambling-case-against-valves-loot-boxes/",
+      "summary": "Lawyers tell Ars the state has a tough road ahead, even as Valve is uniquely vulnerable.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 27 Feb 2026 17:21:21 +0000"
+    },
+    {
+      "title": "千问将发布AI眼镜、耳机、指环，巨头抢占AI新入口丨智能涌现独家",
+      "url": "https://36kr.com/p/3702628151751046?f=rss",
+      "summary": "文｜邱晓芬 编辑｜苏建勋 过去的一个月，当千问用“一句话下单”带来2亿订单之后，阿里还希望将这套玩法走出手机屏幕，下放到更多形态的硬件上。 《智能涌现》从阿里内部人士处获悉，阿里旗下个人AI助手“千问”将进入AI硬件领域，其在2026年规划的硬件形态包括AI眼镜、AI耳机、AI指环，将面向全球市场发售。 其中，千问AI眼镜将在即将在2026年世界移动通信大会（MWC）上发布，将在3月2日开启预约。 为了进一步丰富这些终端硬件的使用体验，据《智能涌现》了解，千问APP上的点外卖、打车等功能，都将会无缝迁移到未来众多终端设备中。 有意思的是，不仅仅是阿里千问，近期，全球AI巨头纷纷抢滩消费级AI硬",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-28 15:09:00  +0800"
+    },
+    {
+      "title": "9点1氪丨语音误关大灯致车祸，领克道歉；OpenAI获1100亿美元融资；米哈游内部通报员工意外离世",
+      "url": "https://36kr.com/p/3702272216543360?f=rss",
+      "summary": "今日热点导览 豆包手机回应存在安全漏洞 影石创新：所涉337调查已终结 米哈游多款未公开角色遭泄露，3名“00后”被刑拘 中国邮政称已叫停《尘白禁区》联名活动 蜜雪冰城要在河南老家建“雪王乐园” TOP 3 大新闻 语音误关大灯致车祸，领克致歉 近日，一车主驾驶领克Z20夜间在高速上行驶时，语音操作误关大灯致车辆撞上护栏一事引发网友广泛关注。针对此事，领克汽车销售有限公司副总经理穆军通过社交平台进行回应。2月26日，穆军在其个人微博发文称：“昨晚发生一起领克Z20车辆行驶中语音误操作控制关闭大灯的情况，今天我们第一时间完成了语音控制优化方案，现已通过云端推送更新，后续在行驶状态下只能通过手动控",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-28 09:09:10  +0800"
+    },
+    {
+      "title": "氪星晚报｜蜜雪冰城要在河南老家建“雪王乐园”；DHL集团与京东签署谅解备忘录；日本芯片公司Rapidus获佳能、软银、索尼等公司投资",
+      "url": "https://36kr.com/p/3701306699017862?f=rss",
+      "summary": "大公司： 特斯拉无人驾驶技术在阿布扎比完成道路实测 阿布扎比综合交通中心（ITC）周四宣布，在有驾驶员监督条件下，该局已监督特斯拉完成了其最新无人驾驶技术在当地的道路测试。特斯拉在阿布扎比的测试项目致力于在批准的监管框架内推进出行方式革新，为阿联酋建立一个先进驾驶辅助及自动驾驶技术的测试模型，同时寻求在安全要求与鼓励采用现代创新之间保持谨慎平衡。（财联社） 蜜雪冰城要在河南老家建“雪王乐园” 从接近蜜雪人士处获悉，蜜雪冰城全国首家“雪王室内乐园”项目位于河南郑州集团总部，目前各项工作正稳步推进中。据介绍，乐园以雪王IP为核心，打造充满甜蜜与奇幻的雪王世界。规划多个室内主题体验区，深度融合蜜雪冰",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-27 19:15:36  +0800"
+    },
+    {
+      "title": "业绩快报 | 爱奇艺2025全年营收272.9亿元，海外会员收入同比激增超30%",
+      "url": "https://36kr.com/p/3701287910895495?f=rss",
+      "summary": "2月26日，爱奇艺（NASDAQ:IQ）发布2025年第四季度及全年财报。受益于高品质多元化内容的持续供给，爱奇艺交出一份稳健的成绩单。数据显示，公司2025年全年实现总收入272.9亿元（人民币，下同），Non-GAAP运营利润6.4亿元，连续四年运营盈利。其中，第四季度总收入为67.9亿元，实现同环比双增长。 内容是爱奇艺发展的基石。2025年爱奇艺高品质内容接连涌现，云合年度剧集总有效播放市占率稳居第一，全年共有5部剧集的爱奇艺内容热度值破万，并在内容系列化开发方面实现突破，验证了其在爆款制造上的长效运营能力。 分业务看，2025年爱奇艺会员服务收入168.1亿元，在线广告服务收入51.",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-27 16:37:01  +0800"
+    },
+    {
+      "title": "从短视频到长文：当抖音把资讯也交给AI",
+      "url": "https://36kr.com/p/3700444303814536?f=rss",
+      "summary": "作者 | 肖思佳 编辑 | 乔芊 在抖音引爆短视频行业10年后，曾被视作低效、过时的长文，却重新受到关注。 2025年底，抖音上线长���文功能，向素人创作者和媒体机构开放深度长文创作入口，并向优质长图文提供流量扶持。目前，用户仅可通过抖音网页端，完成文章的上传与发布。 作为一款从“短平快”和“3秒钟注意力”中生长出来的娱乐软件，抖音的这一举措，似乎标志着它正试图从“流量至上”的逻辑中抽身，转而寻求更长久的价值沉淀。这一转变，从2024年9月“抖音精选内容”的推出也可见一斑。 在引入更多原创优质内容的同时，抖音也在积极借助AI搜索技术整合全网信息，发力咨询内容。用户在抖音app内点击顶部“热点",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-27 11:48:42  +0800"
+    },
+    {
+      "title": "创新“新特区”，AWE2026上海新国际博览中心W3馆创新科技展区正式亮相",
+      "url": "https://36kr.com/p/3700996120915848?f=rss",
+      "summary": "在中国家电与消费电子产业规模优势持续巩固的背景下，行业正站在向结构升级和技术跃迁转变的关键节点。AWE2026选择在上海新国际博览中心这一高度成熟、产业密度最高的核心展区内，开辟一个全新的“特区型”板块——创新科技展区，以此响应产业新增长动能的需求。 创新科技展区落地于上海新国际博览中心W3馆内，展示面积达到半个馆约5000余平方米。创新科技展区是在传统优势品类云集、头部品牌集中的产业平台上，为具备高成长潜力的新技术、新产品、新企业，划出一块聚焦未来创新科技的展示空间。 创新科技展区并非对现有展区的简单补充，而是与AWE既有板块形成清晰分工与有机协同，共同构成了AWE智慧生活生态。相较于以智能",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-27 11:30:50  +0800"
+    },
+    {
+      "title": "给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了",
+      "url": "https://36kr.com/p/3700919151538052?f=rss",
+      "summary": "文｜富充 编辑｜苏建勋 在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。 第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。 第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-A+轮由芯能创投、优山资本联合领投，清控金信跟投。 中科第五纪创始人兼CEO刘年丰认为，两件事之间存在关联， 核心逻辑是一级市场对机器人的认知更务实了。 “去年，投资人更倾向通用的具身智能叙事，比如偏",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-27 10:11:09  +0800"
+    },
+    {
+      "title": "去年出货10万件、降低打印成本80%，这家高精度金属3D打印公司连融两轮丨36氪首发",
+      "url": "https://36kr.com/p/3700876701642374?f=rss",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高精度微米级金属3D打印企业——云耀深维（江苏）科技有限公司（以下简称“云耀深维”）完成了天使轮及Pre-A轮数千万元融资。 其天使轮投资方为红杉种子基金、深圳高新投及璞跃中国。Pre-A轮融资由博远资本领投，蓝郡资本跟投。资金主要用于核心技术的迭代研发、产能提升、团队扩充以及市场拓展等。 云耀深维成立于2021年，总部及产研基地位于江苏苏州太仓，是一家专注于金属3D打印的科技企业，提供覆盖金属3D打印全尺寸（常规及超高精度金属打印）的设备研发及产品打印的全套解决方案。 硬氪了解到，公司核心团队源自德国弗劳恩霍夫激光技术研究所（Fraunhofer ILT）",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-02-27 09:37:02  +0800"
+    },
+    {
+      "title": "年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码",
+      "url": "https://sspai.com/post/106469",
+      "summary": "那些互动量高的文章，往往不是最精致的，而是最真的。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 28 Feb 2026 13:47:35 +0800"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/106661",
+      "summary": "📅本周新预告《名侦探柯南：高速公路的堕天使》正式预告2月23日，动画电影《名侦探柯南：高速公路的堕天使》发布了正式预告，将于4月10日在日本上映。莲井隆弘（《真･武士传YAIBA》）执导，大仓崇裕（《 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Feb 2026 17:40:29 +0800"
+    },
+    {
+      "title": "Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」",
+      "url": "https://sspai.com/post/106050",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Feb 2026 15:02:45 +0800"
+    },
+    {
+      "title": "当恐惧有了两种模样：《生化危机 9：安魂曲》评测",
+      "url": "https://sspai.com/post/106645",
+      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。《生化危机》系列是由卡普空（Capcom）打造的经典生存恐怖游戏IP，自1996年诞生以来，凭借紧张压迫的氛围、资源管理与动作解谜融合的 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Feb 2026 14:35:19 +0800"
+    },
+    {
+      "title": "截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
+      "url": "https://sspai.com/post/105630",
+      "summary": "有没有想过，一张你亲手设计的「画」，可以被放在无数人的客厅、书房、卧室，伴随着音乐每天被看见、被触摸、被爱不释手？ 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Feb 2026 10:03:57 +0800"
+    },
+    {
+      "title": "派早报：Apple 确认将于三月发布多款新品等",
+      "url": "https://sspai.com/post/106637",
+      "summary": "Google 推出 Nano Banana 2、LM Studio 推出远程连接方案 LM Link 等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Feb 2026 08:38:40 +0800"
+    },
+    {
+      "title": "具透 Plus：Obsidian 有了命令行界面，Android 17 Beta 真的在「战未来」了",
+      "url": "https://sspai.com/prime/story/inside-release-notes-260226",
+      "summary": "Obsidian有了（不太精致的）命令行界面@PlatyHsu：2月10日，Obsidian宣布新增对命令行界面（CLI）的支持。由于Obsidian用户里的技术人群占比颇高，CLI也算是一项呼吁很久 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 26 Feb 2026 18:11:29 +0800"
+    },
+    {
+      "title": "REDMI Buds 8 Pro 降噪真无线耳机体验 - TDS REVIEW",
+      "url": "https://sspai.com/post/106521",
+      "summary": "这篇文章是TDSStudio在少数派上的第19篇文章，依然是全平台首发。虽然年后才上，但还是各位过年好！前不久我们给大家带来了小米Buds6的内容，显然我们还不是特别满意它相较于上代的变化。而在少数派 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 26 Feb 2026 17:30:00 +0800"
+    }
+  ]
+}
