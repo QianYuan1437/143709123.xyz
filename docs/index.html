@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>143709123.xyz</title>
+  <title>143709123.xyz · QianYuan1437</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       font-family: -apple-system, "Microsoft YaHei", "PingFang SC", sans-serif;
-      background: #f8faff;
+      background: linear-gradient(135deg, #f0f4ff 0%, #fafbff 100%);
       color: #1a1a2e;
       min-height: 100vh;
       display: flex;
@@ -17,41 +17,63 @@
       justify-content: center;
       padding: 40px 20px;
     }
-    h1 { font-size: 1.8rem; font-weight: 800; margin-bottom: 8px; color: #1677ff; }
-    p { color: #555577; margin-bottom: 32px; }
-    .social { display: flex; gap: 10px; margin-bottom: 24px; flex-wrap: wrap; justify-content: center; }
+    .avatar {
+      width: 80px; height: 80px; border-radius: 50%;
+      border: 3px solid #e0e8ff;
+      margin-bottom: 14px;
+      box-shadow: 0 4px 16px rgba(22,119,255,0.12);
+    }
+    h1 { font-size: 1.6rem; font-weight: 800; color: #1677ff; margin-bottom: 4px; }
+    .bio { color: #555577; font-size: 0.9rem; margin-bottom: 6px; text-align: center; max-width: 320px; }
+    .location { color: #888; font-size: 0.82rem; margin-bottom: 24px; }
+    .social { display: flex; gap: 8px; margin-bottom: 28px; flex-wrap: wrap; justify-content: center; }
     a.social-btn {
       display: inline-flex; align-items: center; gap: 6px;
       padding: 6px 14px; border-radius: 20px;
       font-size: 0.82rem; font-weight: 600; text-decoration: none;
       border: 1px solid #e0e8ff; background: #fff; color: #1a1a2e;
-      transition: background .15s, border-color .15s;
+      transition: background .15s, border-color .15s, color .15s;
     }
     a.social-btn:hover { background: #f0f5ff; border-color: #1677ff; color: #1677ff; }
-    .links { display: flex; flex-direction: column; gap: 12px; width: 100%; max-width: 360px; }
+    .section-title {
+      font-size: 0.78rem; font-weight: 700; color: #aab; letter-spacing: .08em;
+      text-transform: uppercase; margin-bottom: 10px; align-self: flex-start;
+      width: 100%; max-width: 360px;
+    }
+    .links { display: flex; flex-direction: column; gap: 10px; width: 100%; max-width: 360px; }
     a.card {
       display: flex; align-items: center; gap: 14px;
       background: #fff; border: 1px solid #e0e8ff;
-      border-radius: 12px; padding: 16px 20px;
+      border-radius: 12px; padding: 14px 18px;
       text-decoration: none; color: #1a1a2e;
-      box-shadow: 0 2px 12px rgba(22,119,255,0.07);
-      transition: transform .15s, box-shadow .15s;
+      box-shadow: 0 2px 10px rgba(22,119,255,0.06);
+      transition: transform .15s, box-shadow .15s, border-color .15s;
     }
-    a.card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(22,119,255,0.13); }
-    a.card .icon { font-size: 1.6rem; flex-shrink: 0; }
-    a.card .info .name { font-weight: 700; font-size: 0.95rem; }
-    a.card .info .desc { font-size: 0.82rem; color: #555577; margin-top: 2px; }
+    a.card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(22,119,255,0.13); border-color: #1677ff; }
+    a.card .icon { font-size: 1.5rem; flex-shrink: 0; }
+    a.card .info .name { font-weight: 700; font-size: 0.93rem; }
+    a.card .info .desc { font-size: 0.8rem; color: #666688; margin-top: 2px; }
+    .footer { margin-top: 32px; color: #bbb; font-size: 0.75rem; }
   </style>
 </head>
 <body>
-  <h1>143709123.xyz</h1>
-  <p>个人项目主页</p>
+  <img class="avatar" src="https://avatars.githubusercontent.com/u/91074959?v=4" alt="QianYuan1437 avatar" />
+  <h1>QianYuan1437</h1>
+  <p class="bio">独立开发者 · 热爱折腾各种小工具</p>
+  <p class="location">📍 China</p>
+
   <div class="social">
     <a class="social-btn" href="https://github.com/QianYuan1437" target="_blank" rel="noopener">
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+      <svg width="15" height="15" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
       GitHub
     </a>
+    <a class="social-btn" href="mailto:zyh42018108@163.com">
+      <svg width="15" height="15" viewBox="0 0 20 20" fill="currentColor"><path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"/><path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/></svg>
+      邮件联系
+    </a>
   </div>
+
+  <p class="section-title">🗂 我的项目</p>
   <div class="links">
     <a class="card" href="/software/oss-sync/">
       <span class="icon">☁️</span>
@@ -60,20 +82,15 @@
         <div class="desc">阿里云 OSS 自动同步工具（Windows）</div>
       </div>
     </a>
-    <a class="card" href="/news/">
-      <span class="icon">🐾</span>
-      <div class="info">
-        <div class="name">OpenClaw</div>
-        <div class="desc">OpenClaw 项目主页</div>
-      </div>
-    </a>
     <a class="card" href="/TechNews/">
       <span class="icon">📰</span>
       <div class="info">
-        <div class="name">TechNews</div>
-        <div class="desc">科技资讯聚合</div>
+        <div class="name">科技日报</div>
+        <div class="desc">每日科技圈精选资讯 · 北京时间早 8 点更新</div>
       </div>
     </a>
   </div>
+
+  <p class="footer">© 2025 QianYuan1437 · <a href="https://github.com/QianYuan1437" style="color:#1677ff;text-decoration:none;">github.com/QianYuan1437</a></p>
 </body>
 </html>

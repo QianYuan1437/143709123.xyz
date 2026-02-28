@@ -135,8 +135,14 @@ def render_page(data: dict, dates: list, out_path: Path):
 
 
 def generate_index_redirect(dates: list, docs_dir: Path):
+    """直接将最新一期内容复制为 index.html，无跳转中间页"""
     latest = dates[0] if dates else ""
-    html = f"""<!DOCTYPE html>
+    latest_html = docs_dir / f"{latest}.html"
+    if latest_html.exists():
+        shutil.copy2(latest_html, docs_dir / "index.html")
+    else:
+        # 降级：无感知 JS 跳转
+        html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
@@ -145,8 +151,8 @@ def generate_index_redirect(dates: list, docs_dir: Path):
 </head>
 <body></body>
 </html>"""
-    with open(docs_dir / "index.html", "w", encoding="utf-8") as f:
-        f.write(html)
+        with open(docs_dir / "index.html", "w", encoding="utf-8") as f:
+            f.write(html)
 
 
 def copy_assets(docs_dir: Path):
