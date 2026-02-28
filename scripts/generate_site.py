@@ -140,12 +140,10 @@ def generate_index_redirect(dates: list, docs_dir: Path):
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url={BASE_PATH}/{latest}.html">
   <title>科技日报</title>
+  <script>location.replace("{BASE_PATH}/{latest}.html");</script>
 </head>
-<body>
-  <p>正在跳转到最新一期... <a href="{BASE_PATH}/{latest}.html">点击这里</a></p>
-</body>
+<body></body>
 </html>"""
     with open(docs_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(html)
