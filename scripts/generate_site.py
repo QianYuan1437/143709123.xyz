@@ -176,8 +176,9 @@ def main():
         print(f"  ✅ 生成 {out_path}")
 
     if dates:
+        # 只在 docs/TechNews/ 下生成 index.html，不覆盖根 docs/index.html
         generate_index_redirect(dates, docs_dir)
-        print(f"  ✅ 生成 index.html → {dates[0]}.html")
+        print(f"  ✅ 生成 TechNews/index.html → {dates[0]}.html")
 
     copy_assets(docs_dir)
     print("🎉 网站生成完成")
