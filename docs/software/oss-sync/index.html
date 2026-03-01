@@ -186,11 +186,16 @@
     .download-box .icon { font-size: 3rem; margin-bottom: 16px; }
     .download-box h2 { font-size: 1.6rem; font-weight: 800; margin-bottom: 10px; }
     .download-box p { color: var(--text-secondary); margin-bottom: 28px; }
+    .download-btns { display: flex; flex-direction: column; gap: 12px; align-items: center; }
     .download-meta {
       display: flex; gap: 20px; justify-content: center;
       font-size: 0.82rem; color: var(--text-secondary); margin-top: 18px;
     }
     .download-meta span { display: flex; align-items: center; gap: 4px; }
+    .download-note {
+      font-size: 0.8rem; color: var(--text-secondary);
+      margin-top: 6px; text-align: left; max-width: 400px;
+    }
 
     /* ── Footer ── */
     footer {
@@ -346,12 +351,22 @@
     <div class="icon">⬇️</div>
     <h2>立即下载</h2>
     <p>支持 Windows 10 / 11（64位），安装包约 11 MB，开箱即用。</p>
-    <a class="btn-primary" href="downloads/OSSSync_Setup_v1.0.1.exe">
-      ⬇ 下载 OSSSync_Setup_v1.0.1.exe
-    </a>
+    <div class="download-btns">
+      <div>
+        <a class="btn-primary" href="downloads/OSSSync_Setup_v1.0.1.exe">
+          ⬇ 下载 EXE 安装包（推荐）
+        </a>
+        <p class="download-note">OSSSync_Setup_v1.0.1.exe · 传统安装程序，双击安装即可使用</p>
+      </div>
+      <div>
+        <a class="btn-secondary" href="downloads/osssync.msix">
+          ⬇ 下载 MSIX 安装包
+        </a>
+        <p class="download-note">osssync.msix · Windows 应用包格式，需先安装开发者证书或启用旁加载</p>
+      </div>
+    </div>
     <div class="download-meta">
       <span>🪟 Windows 10/11 x64</span>
-      <span>📦 ~11 MB</span>
       <span>🆓 免费开源</span>
     </div>
   </div>
