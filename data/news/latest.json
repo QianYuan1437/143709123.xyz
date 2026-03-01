@@ -1,8 +1,17 @@
 {
   "date": "2026-03-01",
-  "generated_at": "2026-03-01T10:27:48.596688+08:00",
+  "generated_at": "2026-03-01T12:45:36.031677+08:00",
   "total": 64,
   "articles": [
+    {
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sun, 01 Mar 2026 01:39:26 +0000"
+    },
     {
       "title": "We do not think Anthropic should be designated as a supply chain risk",
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
@@ -22,13 +31,13 @@
       "published": "Sat, 28 Feb 2026 22:19:36 +0000"
     },
     {
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "title": "The happiest I've ever been",
+      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 01 Mar 2026 01:39:26 +0000"
+      "published": "Thu, 26 Feb 2026 04:13:47 +0000"
     },
     {
       "title": "Obsidian Sync now has a headless client",
@@ -40,13 +49,13 @@
       "published": "Sat, 28 Feb 2026 16:31:53 +0000"
     },
     {
-      "title": "The happiest I've ever been",
-      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+      "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 26 Feb 2026 04:13:47 +0000"
+      "published": "Thu, 26 Feb 2026 09:18:57 +0000"
     },
     {
       "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
@@ -65,15 +74,6 @@
       "category": "综合科技",
       "icon": "🔶",
       "published": "Sat, 28 Feb 2026 19:04:01 +0000"
-    },
-    {
-      "title": "Addressing Antigravity Bans and Reinstating Access",
-      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-      "summary": "Comments",
-      "source": "Hacker News",
-      "category": "综合科技",
-      "icon": "🔶",
-      "published": "Sat, 28 Feb 2026 13:50:13 +0000"
     },
     {
       "title": "Polymarket defends its decision to allow betting on war as ‘invaluable’",
@@ -220,7 +220,7 @@
       "published": "Sat, 28 Feb 2026 15:00:00 +0000"
     },
     {
-      "title": "X Is Drowning in Disinformation Following US and Israel’s Attack on Iran",
+      "title": "X Is Drowning in Disinformation Following US and Israeli Attack on Iran",
       "url": "https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/",
       "summary": "WIRED has reviewed hundreds of posts on X that promote misleading claims about the locations and scale of the attack.",
       "source": "Wired",
@@ -465,7 +465,7 @@
     {
       "title": "业绩快报 | 爱奇艺2025全年营收272.9亿元，海外会员收入同比激增超30%",
       "url": "https://36kr.com/p/3701287910895495?f=rss",
-      "summary": "2月26日，爱奇艺（NASDAQ:IQ）发布2025年第四季度及全年财报。受益于高品质多元化内容的持续供给，爱奇艺交出一份稳健的成绩单。数据显示，公司2025年全年实现总收入272.9亿元（人民币，下同），Non-GAAP运营利润6.4亿元，连续四年运营盈利。其中，第四季度总收入为67.9亿元，实现同环比双增长。 内容是爱奇艺发展的基石。2025年爱奇艺高品质内容接连涌现，云合年度剧集总有效播放市占率稳居第一，全年共有5部剧集的爱奇艺内容热度值破万，并在内容系列化开发方面实现突破，验证了其在爆款制造上的长效运营能力。 分业务看，2025年爱奇艺会员服务收入168.1亿元，在线广告服务收入51.",
+      "summary": "2月26日，爱奇艺（NASDAQ:IQ）发布2025年第四季度及全年财报。受益于高品质多元化内容的持续供给，爱奇艺交出一份稳健的成绩单。数据显示，公司2025年全���实现总收入272.9亿元（人民币，下同），Non-GAAP运营利润6.4亿元，连续四年运营盈利。其中，第四季度总收入为67.9亿元，实现同环比双增长。 内容是爱奇艺发展的基石。2025年爱奇艺高品质内容接连涌现，云合年度剧集总有效播放市占率稳居第一，全年共有5部剧集的爱奇艺内容热度值破万，并在内容系列化开发方面实现突破，验证了其在爆款制造上的长效运营能力。 分业务看，2025年爱奇艺会员服务收入168.1亿元，在线广告服务收入5",
       "source": "36氪",
       "category": "国内科技",
       "icon": "🇨🇳",
