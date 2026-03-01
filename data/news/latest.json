@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "generated_at": "2026-03-01T12:56:22.896415+08:00",
+  "generated_at": "2026-03-01T14:21:17.704034+08:00",
   "total": 64,
   "articles": [
     {
@@ -31,15 +31,6 @@
       "published": "Sat, 28 Feb 2026 22:19:36 +0000"
     },
     {
-      "title": "The happiest I've ever been",
-      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
-      "summary": "Comments",
-      "source": "Hacker News",
-      "category": "综合科技",
-      "icon": "🔶",
-      "published": "Thu, 26 Feb 2026 04:13:47 +0000"
-    },
-    {
       "title": "Obsidian Sync now has a headless client",
       "url": "https://help.obsidian.md/sync/headless",
       "summary": "Comments",
@@ -47,6 +38,24 @@
       "category": "综合科技",
       "icon": "🔶",
       "published": "Sat, 28 Feb 2026 16:31:53 +0000"
+    },
+    {
+      "title": "SQL vs. NoSQL: How to Answer This Interview Question in 2026",
+      "url": "https://www.thetrueengineer.com/p/sql-vs-nosql-how-to-answer-this-interview",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Feb 2026 20:37:06 +0000"
+    },
+    {
+      "title": "The happiest I've ever been",
+      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Thu, 26 Feb 2026 04:13:47 +0000"
     },
     {
       "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
@@ -58,22 +67,13 @@
       "published": "Thu, 26 Feb 2026 09:18:57 +0000"
     },
     {
-      "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
-      "url": "https://github.com/jonwiggins/xmloxide",
+      "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
+      "url": "https://www.nature.com/articles/s41586-026-10114-5",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 28 Feb 2026 23:44:41 +0000"
-    },
-    {
-      "title": "Block the “Upgrade to Tahoe” Alerts",
-      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-      "summary": "Comments",
-      "source": "Hacker News",
-      "category": "综合科技",
-      "icon": "🔶",
-      "published": "Sat, 28 Feb 2026 19:04:01 +0000"
+      "published": "Wed, 25 Feb 2026 15:01:20 +0000"
     },
     {
       "title": "Polymarket defends its decision to allow betting on war as ‘invaluable’",
