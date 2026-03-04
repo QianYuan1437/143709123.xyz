@@ -1,79 +1,115 @@
 {
   "date": "2026-03-04",
-  "generated_at": "2026-03-04T10:06:57.891281+08:00",
+  "generated_at": "2026-03-04T20:08:00.375437+08:00",
   "total": 64,
   "articles": [
     {
-      "title": "MacBook Pro with M5 Pro and M5 Max",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Mar 2026 14:02:06 +0000"
+      "published": "Wed, 04 Mar 2026 00:58:31 +0000"
     },
     {
-      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
-      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "title": "RFC 9849. TLS Encrypted Client Hello",
+      "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Mar 2026 23:34:05 +0000"
+      "published": "Wed, 04 Mar 2026 07:25:24 +0000"
     },
     {
-      "title": "Voxile: A ray-traced game made in its own engine and programming language",
-      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+      "title": "Agentic Engineering Patterns",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Mar 2026 21:10:27 +0000"
+      "published": "Wed, 04 Mar 2026 05:00:37 +0000"
     },
     {
-      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+      "title": "Bet on German Train Delays",
+      "url": "https://bahn.bet",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Mar 2026 18:54:06 +0000"
+      "published": "Wed, 04 Mar 2026 09:42:20 +0000"
     },
     {
-      "title": "Claude's Cycles [pdf]",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+      "title": "RE#: how we built the fastest regex engine in F#",
+      "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Mar 2026 10:57:42 +0000"
+      "published": "Sun, 01 Mar 2026 13:47:36 +0000"
     },
     {
-      "title": "Textadept",
-      "url": "https://orbitalquark.github.io/textadept/",
+      "title": "Jiga (YC W21) Is Hiring",
+      "url": "https://jiga.io/about-us",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 01 Mar 2026 05:36:58 +0000"
+      "published": "Wed, 04 Mar 2026 12:01:42 +0000"
     },
     {
-      "title": "GPT‑5.3 Instant",
-      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "title": "Better JIT for Postgres",
+      "url": "https://github.com/vladich/pg_jitter",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Mar 2026 17:57:33 +0000"
+      "published": "Wed, 04 Mar 2026 06:17:10 +0000"
     },
     {
-      "title": "Marcus AI Claims Dataset",
-      "url": "https://github.com/davegoldblatt/marcus-claims-dataset",
+      "title": "A CPU that runs entirely on GPU",
+      "url": "https://github.com/robertcprice/nCPU",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Wed, 04 Mar 2026 01:30:43 +0000"
+      "published": "Wed, 04 Mar 2026 04:30:32 +0000"
+    },
+    {
+      "title": "How a prize-winning cartoonist brings hand-drawn comics to the web",
+      "url": "https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web",
+      "summary": "Jailed during the 2021 coup in Myanmar, American journalist Danny Fenster spent six months as a political prisoner. For much of his incarceration he battled boredom and fear, subsisting on meditation and podcasts on an SD card smuggled in by mail, sent by his girlfriend, Juliana. Now, nearly five ye",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-03-04T07:00:00-05:00"
+    },
+    {
+      "title": "I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year",
+      "url": "https://www.theverge.com/tech/885941/kobo-wireless-bluetooth-remote-page-turn-clara-libra-sage-elipsa",
+      "summary": "Does anyone really need a remote for a device you’re already either holding or using at arm’s length? E-readers have saved us from the risk of paper cuts and the burden of physically turning pages, but Kobo is making it even easier by releasing a wireless page-turning remote. The Kobo Remote might b",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-03-04T06:30:00-05:00"
+    },
+    {
+      "title": "Inside the secret meeting that led to the AI political resistance",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
+      "summary": "In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative acade",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-03-04T06:00:00-05:00"
+    },
+    {
+      "title": "Activision silences trusted Call of Duty leaker",
+      "url": "https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown",
+      "summary": "One of the most trusted leakers for Call of Duty will no longer share confidential information about the gaming franchise after being hit with a cease and desist order. TheGhostOfHope (also known to the community as \"Hope\") announced on X that he is complying with legal demands from developer Activi",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-03-04T04:34:38-05:00"
     },
     {
       "title": "Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time",
@@ -112,40 +148,22 @@
       "published": "2026-03-03T16:00:00-05:00"
     },
     {
-      "title": "Another Oracle outage is messing up US TikTok",
-      "url": "https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026",
-      "summary": "The US version of TikTok is once again experiencing issues due to an Oracle outage, just a month after coming back online from a similar outage in February. The service disruption, impacting Oracle's Ashburn, Virginia data center, began early Tuesday afternoon, with Downdetector reports spiking arou",
-      "source": "The Verge",
-      "category": "科技资讯",
-      "icon": "📱",
-      "published": "2026-03-03T15:26:21-05:00"
+      "title": "Who needs data centers in space when they can float offshore?",
+      "url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+      "summary": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 04 Mar 2026 12:00:00 +0000"
     },
     {
-      "title": "Highguard is shutting down this month",
-      "url": "https://www.theverge.com/games/880206/highguard-shut-down",
-      "summary": "Another high-profile live-service game is shutting down soon after launch: this time it's the free-to-play squad shooter Highguard. Developer Wildlight Entertainment says that, even though Highguard reached 2 million players, the game will be shut down permanently on March 12th. That's less than two",
-      "source": "The Verge",
-      "category": "科技资讯",
-      "icon": "📱",
-      "published": "2026-03-03T15:16:03-05:00"
-    },
-    {
-      "title": "Shark’s latest robot vacuum hunts stains with UV light",
-      "url": "https://www.theverge.com/tech/888179/shark-powerdetect-uv-reveal-robot-vacuum-review",
-      "summary": "The Shark PowerDetect UV Reveal is SharkNinja's latest robot vacuum and mop. A flagship model with a multifunctional dock that empties the dustbin and refills and washes its mop, the Reveal's signature feature is a UV light designed to \"find\" stains on your floors. It costs $1,299.99 and is availabl",
-      "source": "The Verge",
-      "category": "科技资讯",
-      "icon": "📱",
-      "published": "2026-03-03T15:07:38-05:00"
-    },
-    {
-      "title": "Android’s Find Hub adds iPhone-like luggage tracking links",
-      "url": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
-      "summary": "Google is rolling out an Android update that includes the ability to share the location of your missing luggage with an airline. It's similar to the luggage-tracking feature Apple brought to the iPhone, allowing you to view the location of your Find Hub tag or accessory on a map, and provide your ai",
-      "source": "The Verge",
-      "category": "科技资讯",
-      "icon": "📱",
-      "published": "2026-03-03T14:00:00-05:00"
+      "title": "Eight Sleep raises $50M at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/",
+      "summary": "Eight Sleep said it was free-cash-flow positive in 2025, and plans to use the new funding for new products, global expansions, and clinical validation.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 04 Mar 2026 11:00:00 +0000"
     },
     {
       "title": "Why AI startups are selling the same equity at two different prices",
@@ -202,94 +220,76 @@
       "published": "Tue, 03 Mar 2026 21:44:09 +0000"
     },
     {
-      "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-      "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-      "summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Tue, 03 Mar 2026 20:20:56 +0000"
-    },
-    {
-      "title": "Anduril aims at $60 billion valuation in new funding round",
-      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
-      "summary": "The funding round would come less than a year after Anduril's Series G, which closed in June with $2.5 billion against a $30 billion valuation.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Tue, 03 Mar 2026 20:06:45 +0000"
-    },
-    {
-      "title": "Here’s Why Trump Posted About Iran ‘Stealing’ the 2020 Election Hours After the US Attacked",
-      "url": "https://www.wired.com/story/heres-why-trump-posted-about-iran-stealing-the-2020-election-hours-after-the-us-attacked/",
-      "summary": "Donald Trump’s post on Truth Social about Iran echoed a conspiracy theory that has been circulating online for years.",
+      "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+      "url": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+      "summary": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic leaks—a spying trick the NSA once codenamed TEMPEST.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 21:13:02 +0000"
+      "published": "Wed, 04 Mar 2026 12:00:00 +0000"
     },
     {
-      "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
-      "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
-      "summary": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
+      "title": "16 Best Air Purifiers (2026): Coway, AirDoctor, IQAir",
+      "url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "summary": "Protect your home against dust, pets, allergies, and more with air purifiers tested firsthand by WIRED.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 19:01:35 +0000"
+      "published": "Wed, 04 Mar 2026 11:31:00 +0000"
     },
     {
-      "title": "Our Favorite Upgraded Gaming Headset Is $20 Off",
-      "url": "https://www.wired.com/story/razer-blackshark-v3-pro-deal-226/",
-      "summary": "The Razer BlackShark V3 Pro has excellent noise-canceling and spatial audio for focused gamers.",
+      "title": "Some People See Aliens While on DMT. Researchers Want to Find Out What They Can Teach Us",
+      "url": "https://www.wired.com/story/some-people-see-aliens-while-on-dmt-researchers-want-to-find-out-what-they-can-teach-us/",
+      "summary": "A new psychedelic retreat calling itself a “SETI for the mind” aims to establish two-way communication with the nonhuman entities people encounter while tripping on DMT.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 18:36:27 +0000"
+      "published": "Wed, 04 Mar 2026 11:30:00 +0000"
     },
     {
-      "title": "Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices",
-      "url": "https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/",
-      "summary": "Apple also announced two new pricey Studio Display computer monitors. If you're waiting on that rumored entry-level MacBook, the company seems to be saving it for its March 4 media event.",
+      "title": "How Is Kalshi Not Gambling?",
+      "url": "https://www.wired.com/story/big-interview-tarek-mansour-kalshi/",
+      "summary": "Kalshi lets you place bets on everything from football games to foreign invasions. The prediction market’s CEO, Tarek Mansour, says this doesn’t count as gambling—and is actually good for society.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 14:45:03 +0000"
+      "published": "Wed, 04 Mar 2026 11:00:00 +0000"
     },
     {
-      "title": "Shark UV Reveal Review (2026): UV Light Mode",
-      "url": "https://www.wired.com/review/shark-powerdetect-uv-reveal/",
-      "summary": "The UV light built into Shark’s newest robot vacuum is on a quest to embarrass me with how many stains it's spotted.",
+      "title": "Best Theraguns and Therabody Tools for Smarter Recovery (2026)",
+      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+      "summary": "From massage guns to compression boots and LED face masks, these are the top performers in Therabody's wellness lineup.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 13:31:00 +0000"
+      "published": "Wed, 04 Mar 2026 10:30:00 +0000"
     },
     {
-      "title": "The Best Ergonomic Keyboard I've Tried (and Other Comfortable Typing Options)",
-      "url": "https://www.wired.com/gallery/best-ergonomic-keyboard/",
-      "summary": "I've tested a ton of keyboard options to make your typing life easier, and a couple I’d avoid.",
+      "title": "What It’s Like to Have a Brain Implant for 5 Years",
+      "url": "https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/",
+      "summary": "No one has had a Synchron brain-computer interface longer than Rodney Gorham. He's still finding new ways to use it.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 12:30:00 +0000"
+      "published": "Wed, 04 Mar 2026 10:00:00 +0000"
     },
     {
-      "title": "How to Monitor Your Blood Pressure at Home (2026)",
-      "url": "https://www.wired.com/story/how-to-monitor-blood-pressure-at-home/",
-      "summary": "There have never been so many ways to check for hypertension. Here’s what's available and how to use them.",
+      "title": "These Official ChromeOS Flex USB Sticks Can Give Your Old Mac or Windows PC a Second Life",
+      "url": "https://www.wired.com/story/back-market-google-chromeos-flex-usb-sticks/",
+      "summary": "Google is partnering with Back Market to sell USB sticks that let you install ChromeOS Flex on older Windows and Intel-powered Macs collecting dust.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 12:00:00 +0000"
+      "published": "Wed, 04 Mar 2026 08:00:00 +0000"
     },
     {
-      "title": "All the Ways Big Tech Fuels ICE and CBP",
-      "url": "https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/",
-      "summary": "A WIRED analysis shows that ICE and CBP have collectively spent at least $515 million on products from Microsoft, Amazon, Google, and Palantir in the last few years alone.",
+      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+      "url": "https://www.wired.com/story/barkbox-promo-code/",
+      "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 03 Mar 2026 11:30:00 +0000"
+      "published": "Wed, 04 Mar 2026 06:00:00 +0000"
     },
     {
       "title": "MIT Technology Review Insiders Panel",
@@ -436,6 +436,33 @@
       "published": "Tue, 03 Mar 2026 15:19:43 +0000"
     },
     {
+      "title": "千问模型负责人林俊旸提出离职，阿里高管紧急答疑 |  智能涌现独家",
+      "url": "https://36kr.com/p/3708425301749891?f=rss",
+      "summary": "作者 | 邓咏仪 编辑 | 苏建勋 杨轩 “我应该要更早知道这些。” 北京时间3月4日下午约13:00，通义实验室紧急召开了All Hands会议，阿里集团CEO吴泳铭向千问员工坦诚表示。 12个小时前（北京时间3月4日凌晨0点11分），阿里千问大模型技术负责人林俊旸在X上突然宣布离职——林俊旸是阿里AI开源模型的核心推手，也是阿里最年轻的P10之一——行业一片哗然之时，Qwen的很多成员也无法接受团队灵魂人物的突然出走。 “在资源远少于竞对的前提下，能取得今天的成绩，俊旸的领导力是核心因素之一。”不止一位千问成员对36氪评价。 在会上，以刘大一恒（Qwen RL leader）为代表，Qwe",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-03-04 17:50:41  +0800"
+    },
+    {
+      "title": "马年营销各显奇招，乳品品牌破局出圈｜世研消费指数品牌榜Vol.157",
+      "url": "https://36kr.com/p/3708380553507209?f=rss",
+      "summary": "本次监测周期内，茅台，五粮液和伊利分别以1.91、1.75和1.55的综合热度指数位列榜单前三。 世研指数 零食赛道品牌扎堆马年礼盒创新，IP联名和健康创新成营销关键 从上榜品牌动态来看，食品生鲜消费迎来马年春节旺季，整体呈现“礼盒领跑、品质升级、场景细分、营销破圈”的核心特征，各细分赛道竞争激烈且分化明显，品牌新春战略精准贴合节日需求，用户消费从基础刚需转向情感价值与品质体验的双重追求。 其中，零食赛道呈现“高端礼赠与性价比囤货双轨并行”的态势，竞争聚焦IP联名与产品健康化。百草味延续“年的味道”IP，与故宫宫廷文化联名推出马年限定礼盒，1620g款单销量破30万箱，但因“坚果占比低”舆情遭",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-03-04 16:43:27  +0800"
+    },
+    {
+      "title": "大钲资本收购蓝瓶咖啡，后者尚在亏损中｜独家",
+      "url": "https://36kr.com/p/3708291149148288?f=rss",
+      "summary": "作者 | 钟艺璇  彭倩 编辑 | 乔芊 36氪获悉，大钲资本已和雀巢达成协议，从雀巢手中收购了蓝瓶咖啡（Blue Bottle Coffee）的全球门店，价格低于4亿美金。交易完成后，雀巢仍然会保留蓝瓶的快消业务，如咖啡豆、速溶咖啡、即饮饮料。 值得注意的是，蓝瓶咖啡目前仍在亏损中。 36氪独家了解到，截止2025年6月30日，蓝瓶咖啡过去12个月的营收约为2.5亿美元，其中美国贡献收入约1.5亿美元，亚太地区贡献收入约1亿美元。上述信源人士还告诉36氪，蓝瓶咖啡预计2026年实现盈利。 对此，大钲资本没有回复。 另据一位咖啡行业人士透露，瑞幸正在市场上密集接触“品牌向”的招聘对象，为接下来",
+      "source": "36氪",
+      "category": "国内科技",
+      "icon": "🇨🇳",
+      "published": "2026-03-04 15:10:36  +0800"
+    },
+    {
       "title": "何小鹏：未来1-3年完全自动驾驶将真正到来｜最前线",
       "url": "https://36kr.com/p/3707327485505672?f=rss",
       "summary": "小鹏汽车董事长 何小鹏 文｜肖漫 编辑｜李勤 “通过我们内部比较测评，我认为比行业一流选手领先接近5倍。”在第二代VLA发布会后的交流中，小鹏汽车董事长兼CEO何小鹏说道。 智驾的演进，正从“软件定义汽车”变为“AI 定义超级智能体”。新浪潮下，小鹏汽车给出了他们面向未来的激进解法：跳过在硬件、软件与法规层面皆面临妥协的 L3 阶段，直接以 L2 和 L4 作为智驾演进的核心锚点。 在何小鹏看来，第二代VLA已经让小鹏具备从L2直接进入L4的可能性。 小鹏和特斯拉一样，不再是在原有的智驾框架里修修补补，而是彻底把自动驾驶当成通用人工智能（AGI）在物理世界的落地来解题。战略变化前，小鹏已将智能",
@@ -456,7 +483,7 @@
     {
       "title": "前大疆工程师创业，宇树天使投资人出手，仿生柔性机器人公司完成新融资｜硬氪首发",
       "url": "https://36kr.com/p/3701222224817801?f=rss",
-      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪独家获悉，深圳擎羽科技有限公司（以下简称“擎羽科技”）近日完成数千万元天使轮融资。本轮领投方为德迅投资，作为宇树科技的天使投资人，这也是其继极壳科技、首形科技、若创科技后，在硬件领域出手布局的又一项目。老股东奇绩创坛本轮持续加注。融资资金将用于技术研发投入、产品迭代及多场景商业化探索。 擎羽科技成立于2025年3月，专注仿生柔性机器人研发，其采用自适应柔驱技术，可以实现接近人类手臂的灵活性与安全性，解决传统机器人刚性限制问题。创始人兼CEO彭锐为香港大学机器人学博士，获25-26届港府青年科学家奖项，曾任大疆嵌入式工程师，具备近十年机器人工程研发和学术经验。 20",
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，深圳擎羽科技有限公司（以下简称“擎羽科技”）近日完成数千万元天使轮融资。本轮领投方为德迅投资，作为宇树科技的天使投资人，这也是其继极壳科技、首形科技、若创科技后，在硬件领域出手布局的又一项目。老股东奇绩创坛本轮持续加注。融资资金将用于技术研发投入、产品迭代及多场景商业化探索。 擎羽科技成立于2025年3月，专注仿生柔性机器人研发，其采用自适应柔驱技术，可以实现接近人类手臂的灵活性与安全性，解决传统机器人刚性限制问题。创始人兼CEO彭锐为香港大学机器人学博士，获25-26届港府青年科学家奖项，曾任大疆嵌入式工程师，具备近十年机器人工程研发和学术经验。 2026",
       "source": "36氪",
       "category": "国内科技",
       "icon": "🇨🇳",
@@ -481,31 +508,31 @@
       "published": "2026-03-04 08:00:00  +0800"
     },
     {
-      "title": "氪星晚报｜全国首个跨境电商出口“前置监管仓”投用；亚马逊云服务称仍在努力恢复阿联酋网络服务；2026年全国消费促进月启动",
-      "url": "https://36kr.com/p/3707029227499651?f=rss",
-      "summary": "大公司： 亚马逊花逾4亿美元购美知名高校校区用于AI建设 美国乔治·华盛顿大学2日说，美国亚马逊公司斥资4.27亿美元，收购该校弗吉尼亚科学与技术校区，以加快人工智能（AI）基础设施建设。 红果短剧已为多款小说相关软件登记著作权 36氪获悉，3月3日，爱企查App显示，红果短剧关联公司北京笔墨留香科技有限公司成已为“小说快应用”“笔墨留香”“红果官网”网站进行备案。值得一提的是，该公司已为“最看小说”“茶间小说”“翠果小说”等多款小说相关软件登记著作权。 扎克伯格夫妇据报1.7亿美元于迈阿密置业，以规避加州富人税 3月3日，据报道，Meta Platforms公司创始人马克·扎克伯格及其妻子以",
-      "source": "36氪",
-      "category": "国内科技",
-      "icon": "🇨🇳",
-      "published": "2026-03-03 17:57:08  +0800"
+      "title": "年度征文｜至亲离世的 2025，我像是玩了一局成长游戏并做了一份攻略",
+      "url": "https://sspai.com/post/106497",
+      "summary": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 04 Mar 2026 17:30:07 +0800"
     },
     {
-      "title": "黄金频段争夺战打响，华为发布U6GHz完整产品矩阵丨MWC 2026",
-      "url": "https://36kr.com/p/3705512345170309?f=rss",
-      "summary": "作者丨邱晓芬 编辑丨苏建勋 在2026世界移动通信大会（MWC 2026）中偌大的1号馆里，华为几乎占据了一半以上的位置。这么大的空间和篇幅，华为想重点传递的关键词是U6GHz。 为了实现6G这一遥远的蓝图，近期，全球已掀起了一场U6GHz（6.425-7.125 GHz）的探索热潮，阿联酋、巴西及欧洲等多国各大运营商近期纷纷完成了相应的万兆体验速率验证。 简单理解，U6GHz就像是一个“黄金频段”，由于在容量、覆盖、成本这三个维度取得了的最佳平衡，其即将成为未来十年移动网络扩容和升级的核心资源，可以理解为是未来部署5G-A、6G的关键“高速公路”。 在MWC 2026期间，华为发布了一系列关",
-      "source": "36氪",
-      "category": "国内科技",
-      "icon": "🇨🇳",
-      "published": "2026-03-03 13:25:28  +0800"
+      "title": "从采集到回顾，我用 AI 搭建了一套个人信息处理系统",
+      "url": "https://sspai.com/post/106477",
+      "summary": "面对信息过载，我为用 AI 为自己搭了一套信息工作流，希望也能给你带来一丝启发。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 04 Mar 2026 15:00:46 +0800"
     },
     {
-      "title": "荣耀“转型”：发布Robot Phone和首款人形机器人丨MWC 2026",
-      "url": "https://36kr.com/p/3705522207289479?f=rss",
-      "summary": "作者丨邱晓芬 编辑丨苏建勋 在2026世界移动通信大会（MWC 2026）上，荣耀发布的人形机器人、Robot Phone吸引了大量观众的目光。 在Robot Phone上，荣耀打破了过去“黑色方块”的设计，将微型相机和云台系统塞进了手机里。 据介绍，Robot Phone最大的技术挑战之一在于，如何在有限的手机空间中塞进机械臂和电机，这意味着，其上的微型电机必须同时满足高强度和轻量化。 为此，荣耀将折叠屏手机所用的高性能材料用到了 Robt Phone的电机核心组件上，并借助手机上的仿真技术，对每一个零件进行结构优化。 从发布会上看，在 4DoF（自由度）的云台系统帮助下，Robot Pho",
-      "source": "36氪",
-      "category": "国内科技",
-      "icon": "🇨🇳",
-      "published": "2026-03-03 13:24:59  +0800"
+      "title": "一日一技｜将 Obsidian 剪藏文章自动添加至当天日记",
+      "url": "https://sspai.com/post/106660",
+      "summary": "为了解决手动记录的繁琐并保持记录的连贯性，我通过一套自动化方案实现了如下效果：当 Clippings 文件夹中新增剪藏文件时，自动获取文章标题和文章总结，以文章总结的格式自动添加到当天日记的底部。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 04 Mar 2026 11:31:46 +0800"
     },
     {
       "title": "派早报：Apple 发布 M5 系列芯片及 Studio Display、MacBook 系列新品",
@@ -551,33 +578,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Tue, 03 Mar 2026 08:00:00 +0800"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/106749",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 02 Mar 2026 17:41:03 +0800"
-    },
-    {
-      "title": "给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）",
-      "url": "https://sspai.com/post/106467",
-      "summary": "现代设备无疑能做更多事，但我在 2026 年想重新试试 Windows Phone 8.1。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 02 Mar 2026 15:15:20 +0800"
-    },
-    {
-      "title": "年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志",
-      "url": "https://sspai.com/post/106438",
-      "summary": "当向 AI 寻求意见已经成为日常，我开始思考一个问题：AI 作为一个私人顾问，它到底干得怎么样呢？我究竟能不能依赖它？ 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 02 Mar 2026 11:42:30 +0800"
     }
   ]
 }
