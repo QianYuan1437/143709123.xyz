@@ -1,295 +1,349 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T11:34:22.403700+08:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T11:44:34.647699+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 18 Oct 2026 20:48:14 +0000"
+      "published": "Tue, 20 Oct 2026 00:53:52 +0000"
     },
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
+      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
+      "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 18 Oct 2026 23:37:57 +0000"
+      "published": "Tue, 20 Oct 2026 01:34:58 +0000"
     },
     {
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 17 Oct 2026 23:26:35 +0000"
+      "published": "Mon, 19 Oct 2026 16:39:09 +0000"
     },
     {
-      "title": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 18 Oct 2026 16:32:00 +0000"
+      "published": "Mon, 19 Oct 2026 23:22:18 +0000"
     },
     {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 18 Oct 2026 21:09:12 +0000"
+      "published": "Tue, 20 Oct 2026 02:06:40 +0000"
     },
     {
-      "title": "Laptop Based on 6502 CPU",
-      "url": "https://www.maddox.pro/?p=448",
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 15 Oct 2026 22:56:23 +0000"
+      "published": "Mon, 19 Oct 2026 09:05:07 +0000"
     },
     {
-      "title": "Superlite: A Faster Alternatie to Superpowers",
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "title": "Weball: Play Katamari on Websites",
+      "url": "https://www.funwithcomputervision.com/weball/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 19 Oct 2026 02:01:16 +0000"
+      "published": "Sun, 18 Oct 2026 12:39:56 +0000"
     },
     {
-      "title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 18 Oct 2026 13:48:48 +0000"
+      "published": "Mon, 19 Oct 2026 13:35:34 +0000"
     },
     {
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-      "summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the de",
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+      "url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+      "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in America\" sometime next year. Musk had thanked Trump Account booster Brad Gerstner for",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T18:20:53-04:00"
+      "published": "2026-10-19T18:30:42-04:00"
     },
     {
-      "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-      "url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-      "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ ",
+      "title": "The fossil fuel comeback is here",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despi",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T15:30:00-04:00"
+      "published": "2026-10-19T17:48:01-04:00"
     },
     {
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by ",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T14:28:10-04:00"
+      "published": "2026-10-19T17:28:20-04:00"
     },
     {
-      "title": "Video game ownership bill introduced in Congress",
-      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-      "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licens",
+      "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident respon",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T12:27:51-04:00"
+      "published": "2026-10-19T17:00:17-04:00"
     },
     {
-      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-      "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-      "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage […]",
+      "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+      "url": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+      "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T11:00:00-04:00"
+      "published": "2026-10-19T14:52:41-04:00"
     },
     {
-      "title": "J Mascis has nothing better to do",
-      "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-      "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting",
+      "title": "Apple teases MacBook Pro event next week",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T10:00:00-04:00"
+      "published": "2026-10-19T12:04:29-04:00"
     },
     {
-      "title": "Trump says Google kisses his ass",
-      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
-      "summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much mo",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megaw",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T09:25:01-04:00"
+      "published": "2026-10-19T11:44:20-04:00"
     },
     {
-      "title": "The best gadget I bought this year is a milk frother",
-      "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
-      "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their […]",
+      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+      "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+      "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-18T09:00:00-04:00"
+      "published": "2026-10-19T10:41:48-04:00"
     },
     {
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 18 Oct 2026 21:00:00 +0000"
+      "published": "Tue, 20 Oct 2026 02:00:00 +0000"
     },
     {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000"
+      "published": "Tue, 20 Oct 2026 01:27:03 +0000"
     },
     {
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 18 Oct 2026 19:03:38 +0000"
+      "published": "Mon, 19 Oct 2026 23:39:38 +0000"
     },
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 18 Oct 2026 16:30:00 +0000"
+      "published": "Mon, 19 Oct 2026 22:49:27 +0000"
     },
     {
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 18 Oct 2026 16:05:00 +0000"
+      "published": "Mon, 19 Oct 2026 22:04:28 +0000"
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sat, 17 Oct 2026 21:31:32 +0000"
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000"
     },
     {
-      "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
-      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sat, 17 Oct 2026 20:55:52 +0000"
+      "published": "Mon, 19 Oct 2026 19:28:34 +0000"
     },
     {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sat, 17 Oct 2026 20:21:19 +0000"
+      "published": "Mon, 19 Oct 2026 19:00:12 +0000"
     },
     {
-      "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
-      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
-      "summary": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+      "title": "Best Power Bank Deals: Laptops, MagSafe, and More",
+      "url": "https://www.wired.com/story/power-bank-deals-october-2026/",
+      "summary": "You can never have too many portable chargers, especially when they’re this discounted.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 18 Oct 2026 11:01:00 +0000"
+      "published": "Mon, 19 Oct 2026 20:55:15 +0000"
     },
     {
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 18 Oct 2026 10:30:00 +0000"
+      "published": "Mon, 19 Oct 2026 19:49:17 +0000"
     },
     {
-      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-      "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "title": "The Best Mixbook Sale for Holiday Cards (2026)",
+      "url": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
+      "summary": "Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 18 Oct 2026 10:30:00 +0000"
+      "published": "Mon, 19 Oct 2026 19:43:22 +0000"
     },
     {
-      "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
-      "url": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/",
-      "summary": "The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.",
+      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
+      "url": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
+      "summary": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 18 Oct 2026 10:00:00 +0000"
+      "published": "Mon, 19 Oct 2026 18:55:05 +0000"
     },
     {
-      "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
-      "url": "https://www.wired.com/story/best-airpods-case/",
-      "summary": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
+      "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
+      "url": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
+      "summary": "JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 18 Oct 2026 09:00:00 +0000"
+      "published": "Mon, 19 Oct 2026 18:45:06 +0000"
     },
     {
-      "title": "Climate Change Has It In for the World’s Best Surfing",
-      "url": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
-      "summary": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
+      "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
+      "url": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
+      "summary": "Upgrade your cold-weather cooking setup with discounted cookware for soups, stews, and roasts.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 18 Oct 2026 09:00:00 +0000"
+      "published": "Mon, 19 Oct 2026 16:10:40 +0000"
     },
     {
-      "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-      "url": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-      "summary": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 18 Oct 2026 09:00:00 +0000"
+      "published": "Mon, 19 Oct 2026 16:00:00 +0000"
     },
     {
-      "title": "Encryption Is Getting Squeezed From All Sides",
-      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-      "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+      "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
+      "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
+      "summary": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sat, 17 Oct 2026 12:00:00 +0000"
+      "published": "Mon, 19 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like captur",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 19 Oct 2026 18:22:47 +0000"
+    },
+    {
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 19 Oct 2026 17:45:55 +0000"
+    },
+    {
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Al",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 19 Oct 2026 12:10:00 +0000"
+    },
+    {
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.  The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen bef",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 19 Oct 2026 09:22:17 +0000"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 19 Oct 2026 09:08:05 +0000"
+    },
+    {
+      "title": "How far can we push computing?",
+      "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richar",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 19 Oct 2026 09:00:00 +0000"
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -310,130 +364,130 @@
       "published": "Fri, 16 Oct 2026 12:10:00 +0000"
     },
     {
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Fri, 16 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Love is infrastructure",
-      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who we",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Fri, 16 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-      "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly…",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Fri, 16 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Face",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Fri, 16 Oct 2026 07:56:32 +0000"
-    },
-    {
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 15 Oct 2026 12:10:00 +0000"
-    },
-    {
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 15 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sun, 18 Oct 2026 16:25:19 +0000"
+      "published": "Mon, 19 Oct 2026 22:44:26 +0000"
     },
     {
-      "title": "Science says your boss should talk less in meetings",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sat, 17 Oct 2026 11:15:11 +0000"
+      "published": "Mon, 19 Oct 2026 20:54:17 +0000"
     },
     {
-      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sat, 17 Oct 2026 11:00:21 +0000"
+      "published": "Mon, 19 Oct 2026 20:21:53 +0000"
     },
     {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+      "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+      "summary": "One way to make batteries cleaner is to make fewer of them.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 16 Oct 2026 20:59:01 +0000"
+      "published": "Mon, 19 Oct 2026 20:03:55 +0000"
     },
     {
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 16 Oct 2026 20:20:07 +0000"
+      "published": "Mon, 19 Oct 2026 19:39:19 +0000"
     },
     {
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-      "summary": "There are still significant hurdles ahead, both technical and legislative.",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 16 Oct 2026 19:41:18 +0000"
+      "published": "Mon, 19 Oct 2026 19:27:24 +0000"
     },
     {
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-      "summary": "The bug is fixed, but privacy concerns remain.",
+      "title": "ReactOS reaches major milestone with NTFS install support",
+      "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+      "summary": "ReactOS gains NTFS install support with new driver.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 16 Oct 2026 19:11:50 +0000"
+      "published": "Mon, 19 Oct 2026 18:30:56 +0000"
     },
     {
-      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 16 Oct 2026 17:05:59 +0000"
+      "published": "Mon, 19 Oct 2026 16:59:22 +0000"
+    },
+    {
+      "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+      "url": "https://sspai.com/post/116430",
+      "summary": "简单干净、支持双拼纠错的 iOS 输入法。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 20 Oct 2026 10:34:39 +0800"
+    },
+    {
+      "title": "派早报：MiniMax 发布 M3.1 Flash 模型等",
+      "url": "https://sspai.com/post/116758",
+      "summary": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 20 Oct 2026 08:39:33 +0800"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/116705",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 19 Oct 2026 17:39:45 +0800"
+    },
+    {
+      "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+      "url": "https://sspai.com/post/116585",
+      "summary": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 19 Oct 2026 16:35:40 +0800"
+    },
+    {
+      "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
+      "url": "https://sspai.com/post/116699",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 19 Oct 2026 16:00:19 +0800"
+    },
+    {
+      "title": "开源掌机的文化线索",
+      "url": "https://sspai.com/post/115125",
+      "summary": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？ 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 19 Oct 2026 10:49:51 +0800"
     },
     {
       "title": "派早报：三季度全球手机出货量继续两位数下降",
@@ -452,60 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Sun, 18 Oct 2026 15:01:02 +0800"
-    },
-    {
-      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
-      "url": "https://sspai.com/post/104231",
-      "summary": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Sat, 17 Oct 2026 14:58:04 +0800"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 13 部作品",
-      "url": "https://sspai.com/post/116423",
-      "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 16 Oct 2026 18:21:07 +0800"
-    },
-    {
-      "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
-      "url": "https://sspai.com/post/114836",
-      "summary": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 16 Oct 2026 14:24:47 +0800"
-    },
-    {
-      "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
-      "url": "https://sspai.com/post/115679",
-      "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 16 Oct 2026 12:41:05 +0800"
-    },
-    {
-      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
-      "url": "https://sspai.com/post/115688",
-      "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 16 Oct 2026 10:18:38 +0800"
-    },
-    {
-      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-      "url": "https://sspai.com/post/116355",
-      "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 16 Oct 2026 08:23:12 +0800"
     }
   ]
 }
