@@ -1,295 +1,295 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T11:34:23.731520+08:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T11:31:24.363627+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 23 Oct 2026 16:59:08 +0000"
+      "published": "Sat, 24 Oct 2026 21:47:31 +0000"
     },
     {
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 23 Oct 2026 23:30:17 +0000"
+      "published": "Sun, 25 Oct 2026 03:05:53 +0000"
     },
     {
-      "title": "Twelve Years of Distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 24 Oct 2026 01:16:58 +0000"
+      "published": "Sat, 24 Oct 2026 19:06:55 +0000"
     },
     {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 23 Oct 2026 12:28:47 +0000"
+      "published": "Sat, 24 Oct 2026 19:43:27 +0000"
     },
     {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 23 Oct 2026 21:21:47 +0000"
+      "published": "Sun, 25 Oct 2026 01:33:49 +0000"
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "url": "https://block.xyz/dessa",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 23 Oct 2026 19:09:54 +0000"
+      "published": "Sat, 24 Oct 2026 23:11:54 +0000"
     },
     {
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 20 Oct 2026 21:30:56 +0000"
+      "published": "Sat, 24 Oct 2026 23:33:19 +0000"
     },
     {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Thu, 22 Oct 2026 23:01:18 +0000"
+      "published": "Sat, 24 Oct 2026 19:19:43 +0000"
     },
     {
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T17:39:26-04:00"
+      "published": "2026-10-24T17:29:12-04:00"
     },
     {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T17:11:07-04:00"
+      "published": "2026-10-24T14:32:21-04:00"
     },
     {
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just w",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on th",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T15:35:15-04:00"
+      "published": "2026-10-24T11:00:00-04:00"
     },
     {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan",
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T15:32:39-04:00"
+      "published": "2026-10-24T11:00:00-04:00"
     },
     {
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-      "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently",
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T14:43:30-04:00"
+      "published": "2026-10-24T10:15:00-04:00"
     },
     {
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tes",
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RT",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T13:55:03-04:00"
+      "published": "2026-10-24T10:00:00-04:00"
     },
     {
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speed",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor [",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T13:35:15-04:00"
+      "published": "2026-10-24T08:30:00-04:00"
     },
     {
-      "title": "The iPhone Duo should have been an iPad",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-10-23T13:00:18-04:00"
+      "published": "2026-10-24T08:00:00-04:00"
     },
     {
-      "title": "Startups don’t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 23:07:45 +0000"
+      "published": "Sat, 24 Oct 2026 20:46:34 +0000"
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 23:05:49 +0000"
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000"
     },
     {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 21:59:19 +0000"
+      "published": "Sat, 24 Oct 2026 19:00:00 +0000"
     },
     {
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "summary": "Instacart might sell itself to a larger competitor.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 20:57:13 +0000"
+      "published": "Sat, 24 Oct 2026 16:30:00 +0000"
     },
     {
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 20:03:14 +0000"
+      "published": "Sat, 24 Oct 2026 16:00:00 +0000"
     },
     {
-      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 19:25:13 +0000"
+      "published": "Sat, 24 Oct 2026 15:30:00 +0000"
     },
     {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 19:06:23 +0000"
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000"
     },
     {
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Fri, 23 Oct 2026 16:26:29 +0000"
+      "published": "Sat, 24 Oct 2026 15:00:00 +0000"
     },
     {
-      "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
-      "url": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
-      "summary": "The brand’s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.",
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 18:27:32 +0000"
+      "published": "Sat, 24 Oct 2026 12:00:00 +0000"
     },
     {
-      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
-      "url": "https://www.wired.com/gallery/iphone-buying-guide/",
-      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
+      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+      "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+      "summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 17:00:00 +0000"
+      "published": "Sat, 24 Oct 2026 11:30:00 +0000"
     },
     {
-      "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
-      "url": "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/",
-      "summary": "The trillionaire has given more than $445 million to Republican political groups this election cycle, as Democrats vow to investigate him.",
+      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 16:12:49 +0000"
+      "published": "Sat, 24 Oct 2026 11:03:00 +0000"
     },
     {
-      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
-      "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
-      "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
+      "title": "9 Unique Apps to Try on the iPhone Duo",
+      "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+      "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 15:00:00 +0000"
+      "published": "Sat, 24 Oct 2026 10:45:00 +0000"
     },
     {
-      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
-      "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-      "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+      "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
+      "url": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
+      "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 11:30:00 +0000"
+      "published": "Sat, 24 Oct 2026 10:30:00 +0000"
     },
     {
-      "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
-      "url": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
-      "summary": "This feature common to VPN services gives you protection and privacy specifically when and where you need it.",
+      "title": "12 Absolutely Banging Proper Watches Under $400",
+      "url": "https://www.wired.com/story/best-watches-under-400-chosen-by-experts/",
+      "summary": "WIRED and its panel of watch experts hunted for real mechanical timepieces at rock-bottom prices and found a wealth of options. Here are our favorites.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 11:00:00 +0000"
+      "published": "Sat, 24 Oct 2026 10:15:00 +0000"
     },
     {
-      "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
-      "url": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
-      "summary": "Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.",
+      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
+      "url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
+      "summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 10:45:00 +0000"
+      "published": "Sat, 24 Oct 2026 10:00:00 +0000"
     },
     {
-      "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
-      "url": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
-      "summary": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.",
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 23 Oct 2026 10:30:00 +0000"
+      "published": "Sat, 24 Oct 2026 10:00:00 +0000"
     },
     {
       "title": "The Download: testing six tech promises and biotech’s blind spots",
@@ -364,6 +364,24 @@
       "published": "Thu, 22 Oct 2026 08:41:18 +0000"
     },
     {
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 24 Oct 2026 11:50:28 +0000"
+    },
+    {
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 24 Oct 2026 11:00:09 +0000"
+    },
+    {
       "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
       "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
       "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
@@ -418,22 +436,13 @@
       "published": "Fri, 23 Oct 2026 17:32:58 +0000"
     },
     {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Fri, 23 Oct 2026 17:18:31 +0000"
-    },
-    {
-      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Fri, 23 Oct 2026 16:58:39 +0000"
+      "title": "在硅谷，遇见个人计算机历史",
+      "url": "https://sspai.com/post/116128",
+      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 24 Oct 2026 16:26:02 +0800"
     },
     {
       "title": "本周看什么 | 最近值得一看的 12 部作品",
@@ -497,15 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Thu, 22 Oct 2026 11:36:57 +0800"
-    },
-    {
-      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-      "url": "https://sspai.com/post/116953",
-      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Thu, 22 Oct 2026 08:29:05 +0800"
     }
   ]
 }
