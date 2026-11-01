@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T12:45:12.385352+08:00",
+  "total": 56,
+  "articles": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 31 Oct 2026 19:56:53 +0000"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 31 Oct 2026 22:41:06 +0000"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 31 Oct 2026 19:16:30 +0000"
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sun, 01 Nov 2026 02:19:53 +0000"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 31 Oct 2026 22:46:12 +0000"
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sun, 01 Nov 2026 01:46:29 +0000"
+    },
+    {
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 31 Oct 2026 22:54:55 +0000"
+    },
+    {
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sat, 31 Oct 2026 23:08:12 +0000"
+    },
+    {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art h",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T17:06:58-04:00"
+    },
+    {
+      "title": "Keyboards of The Verge",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards ove",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T15:30:00-04:00"
+    },
+    {
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remain",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T14:40:32-04:00"
+    },
+    {
+      "title": "Happy Pikmin Day Eve",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series o",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T13:50:12-04:00"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T12:05:00-04:00"
+    },
+    {
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T11:12:19-04:00"
+    },
+    {
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops availa",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T11:00:00-04:00"
+    },
+    {
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My Luck\"?",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-10-31T11:00:00-04:00"
+    },
+    {
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 01 Nov 2026 02:22:10 +0000"
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 31 Oct 2026 21:41:00 +0000"
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 31 Oct 2026 21:36:07 +0000"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 31 Oct 2026 21:17:03 +0000"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 31 Oct 2026 16:12:55 +0000"
+    },
+    {
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 31 Oct 2026 15:41:57 +0000"
+    },
+    {
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 31 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "summary": "The money behind the money is thrilled, mostly.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 31 Oct 2026 04:16:50 +0000"
+    },
+    {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights",
+      "url": "https://www.wired.com/story/govee-christmas-lights-deal-october-2026/",
+      "summary": "Glow up your home indoors or out with these versatile, discounted, full color smart string lights. They’re WIRED-tested and 25 percent off right now.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "url": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+      "summary": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Backup by Biolite Review: A Cool Idea",
+      "url": "https://www.wired.com/review/backup-by-biolite/",
+      "summary": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 10:33:00 +0000"
+    },
+    {
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Bose QC Headphones (2nd Gen) Sale: Lowest Price Ahead of Black Friday",
+      "url": "https://www.wired.com/story/bose-deals-october-2026/",
+      "summary": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+      "url": "https://www.wired.com/review/keurig-alta-brewer/",
+      "summary": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 31 Oct 2026 09:35:00 +0000"
+    },
+    {
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to ",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 30 Oct 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 30 Oct 2026 09:00:00 +0000"
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing be",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 29 Oct 2026 12:10:00 +0000"
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 29 Oct 2026 10:11:12 +0000"
+    },
+    {
+      "title": "Our climate models have a big, dangerous blind spot",
+      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 29 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 28 Oct 2026 20:32:02 +0000"
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth muc",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 28 Oct 2026 12:10:00 +0000"
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "summary": "",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 31 Oct 2026 11:15:26 +0000"
+    },
+    {
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 31 Oct 2026 11:02:34 +0000"
+    },
+    {
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 31 Oct 2026 00:07:22 +0000"
+    },
+    {
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 30 Oct 2026 22:36:41 +0000"
+    },
+    {
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 30 Oct 2026 22:21:05 +0000"
+    },
+    {
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 30 Oct 2026 21:41:54 +0000"
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 30 Oct 2026 21:09:54 +0000"
+    },
+    {
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "summary": "People who love AI don't always love telling others they used it.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 30 Oct 2026 20:40:13 +0000"
+    },
+    {
+      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+      "url": "https://sspai.com/post/117960",
+      "summary": "欢迎你在评论区分享 10 月新作的游玩体验。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 31 Oct 2026 13:29:19 +0800"
+    },
+    {
+      "title": "一图流 | 一张图看懂中国版 Apple 智能",
+      "url": "https://sspai.com/post/117953",
+      "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 31 Oct 2026 12:10:39 +0800"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "url": "https://sspai.com/post/117867",
+      "summary": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 30 Oct 2026 17:57:11 +0800"
+    },
+    {
+      "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+      "url": "https://sspai.com/post/116047",
+      "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 30 Oct 2026 14:59:21 +0800"
+    },
+    {
+      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+      "url": "https://sspai.com/prime/story/zhuanglesha-261030",
+      "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 30 Oct 2026 11:30:43 +0800"
+    },
+    {
+      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+      "url": "https://sspai.com/post/116435",
+      "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 30 Oct 2026 11:13:40 +0800"
+    },
+    {
+      "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+      "url": "https://sspai.com/post/117827",
+      "summary": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 30 Oct 2026 08:13:38 +0800"
+    },
+    {
+      "title": "新玩意 254｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/117791",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 29 Oct 2026 17:26:58 +0800"
+    }
+  ]
+}
