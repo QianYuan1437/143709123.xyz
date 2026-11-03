@@ -1,295 +1,340 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T12:46:55.655479+08:00",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T13:38:17.916464+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 01 Nov 2026 15:58:28 +0000"
+      "published": "Mon, 02 Nov 2026 18:21:28 +0000"
     },
     {
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 02 Nov 2026 01:59:38 +0000"
+      "published": "Tue, 03 Nov 2026 01:53:34 +0000"
     },
     {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 31 Oct 2026 01:38:56 +0000"
+      "published": "Tue, 03 Nov 2026 01:33:43 +0000"
     },
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 31 Oct 2026 19:56:53 +0000"
+      "published": "Mon, 02 Nov 2026 17:16:17 +0000"
     },
     {
-      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 31 Oct 2026 11:53:47 +0000"
+      "published": "Mon, 02 Nov 2026 23:47:56 +0000"
     },
     {
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
+      "title": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 01 Nov 2026 19:35:27 +0000"
+      "published": "Mon, 02 Nov 2026 08:58:33 +0000"
     },
     {
-      "title": "Trigger.dev customer environment variables exposed",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 02 Nov 2026 01:09:16 +0000"
+      "published": "Mon, 02 Nov 2026 16:34:36 +0000"
     },
     {
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 30 Oct 2026 04:17:06 +0000"
+      "published": "Sun, 01 Nov 2026 06:13:30 +0000"
     },
     {
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals f",
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T16:09:21-05:00"
+      "published": "2026-11-02T17:56:11-05:00"
     },
     {
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the ",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in re",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T14:58:02-05:00"
+      "published": "2026-11-02T17:02:36-05:00"
     },
     {
-      "title": "Apple’s HomeView could add security camera features",
-      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is",
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T12:16:07-05:00"
+      "published": "2026-11-02T16:04:20-05:00"
     },
     {
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this ",
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T11:19:21-05:00"
+      "published": "2026-11-02T15:37:49-05:00"
     },
     {
-      "title": "North Korea linked to massive Binance crypto heist",
-      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. ",
+      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using i",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T09:33:11-05:00"
+      "published": "2026-11-02T15:03:52-05:00"
     },
     {
-      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-      "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than [",
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low pr",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T09:00:00-05:00"
+      "published": "2026-11-02T14:24:09-05:00"
     },
     {
-      "title": "New Zelda and GTA represent a games industry that no longer exists",
-      "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two bigges",
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T08:00:00-05:00"
+      "published": "2026-11-02T14:05:46-05:00"
     },
     {
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligib",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-01T08:00:00-05:00"
+      "published": "2026-11-02T13:56:02-05:00"
     },
     {
-      "title": "Borrowed reading: stories from our extended colleagues",
-      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 02 Nov 2026 04:23:48 +0000"
+      "published": "Tue, 03 Nov 2026 03:30:00 +0000"
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 01 Nov 2026 21:55:23 +0000"
+      "published": "Tue, 03 Nov 2026 01:49:52 +0000"
     },
     {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 01 Nov 2026 20:57:58 +0000"
+      "published": "Tue, 03 Nov 2026 01:12:55 +0000"
     },
     {
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 01 Nov 2026 17:04:00 +0000"
+      "published": "Tue, 03 Nov 2026 00:35:52 +0000"
     },
     {
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 01 Nov 2026 16:20:10 +0000"
+      "published": "Tue, 03 Nov 2026 00:14:51 +0000"
     },
     {
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 01 Nov 2026 15:00:00 +0000"
+      "published": "Mon, 02 Nov 2026 23:25:32 +0000"
     },
     {
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "The one-year-old startup is now valued at $300 million.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 01 Nov 2026 14:00:00 +0000"
+      "published": "Mon, 02 Nov 2026 23:13:53 +0000"
     },
     {
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 01 Nov 2026 02:22:10 +0000"
+      "published": "Mon, 02 Nov 2026 23:04:57 +0000"
     },
     {
-      "title": "The 30 Best Gifts for Star Wars Fans (2026)",
-      "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
-      "summary": "From marble runs to advent calendars, these are the best Star Wars gifts for fans of all ages.",
+      "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
+      "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
+      "summary": "With Democrats poised to make significant gains in Tuesday’s midterm elections, Trump supporters have been reduced to posting bizarre Star Wars fan fiction.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 12:30:00 +0000"
+      "published": "Mon, 02 Nov 2026 23:17:27 +0000"
     },
     {
-      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
-      "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
-      "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
+      "url": "https://www.wired.com/story/burga-sale-november-2026/",
+      "summary": "Whether you need a phone case, magnetic ring, Apple Watch band, or power bank, now’s a great time to save $25 on orders over $50.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 12:00:00 +0000"
+      "published": "Mon, 02 Nov 2026 21:30:00 +0000"
     },
     {
-      "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
-      "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
-      "summary": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
+      "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
+      "summary": "Black Friday is still weeks away, but you don’t have to wait for a good sale on Dyson vacuums.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 12:00:00 +0000"
+      "published": "Mon, 02 Nov 2026 21:00:00 +0000"
     },
     {
-      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
-      "url": "https://www.wired.com/story/lenovo-loq-15-best-deal/",
-      "summary": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
+      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
+      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
+      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 11:30:00 +0000"
+      "published": "Mon, 02 Nov 2026 19:38:06 +0000"
     },
     {
-      "title": "8 Best Space Heaters (2026): Tested, Measured, and Mistreated",
-      "url": "https://www.wired.com/gallery/the-best-space-heaters/",
-      "summary": "These portable heaters will heat a room quickly, quietly, and safely.",
+      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
+      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
+      "summary": "The influential Center for Renewing America says that “neo-Marxist progressives and anti-Western Muslims” can’t sincerely swear to protect the Constitution—and shouldn’t be allowed to assume office.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 11:30:00 +0000"
+      "published": "Mon, 02 Nov 2026 17:29:17 +0000"
     },
     {
-      "title": "What Democrats Can Learn From New York’s Data Center Moratorium",
-      "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
-      "summary": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.",
+      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+      "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
+      "summary": "The Capytistas, a secretive group claiming more than $1.2 million in backing, started with Elon Musk and Tesla’s board. Members argue that those who buy political power deserve the scrutiny they’ll impose.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 11:00:00 +0000"
+      "published": "Mon, 02 Nov 2026 17:00:00 +0000"
     },
     {
-      "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
-      "url": "https://www.wired.com/story/the-best-travel-mugs/",
-      "summary": "These top picks from brands like Ember, Owala, and Hydro Flask are built to last, keeping your drinks hot and your mornings smooth.",
+      "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
+      "url": "https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/",
+      "summary": "The first Wi-Fi 8 router has arrived. This quad-band gaming beast from Asus is fabulously fast and feature-packed.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 10:31:00 +0000"
+      "published": "Mon, 02 Nov 2026 16:44:20 +0000"
     },
     {
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
+      "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
+      "summary": "So far, Department of Justice–led efforts to sow chaos, even as Americans are already voting, have fallen flat.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 01 Nov 2026 10:30:00 +0000"
+      "published": "Mon, 02 Nov 2026 15:13:39 +0000"
+    },
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 03 Nov 2026 04:18:47 +0000"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 02 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 02 Nov 2026 13:10:32 +0000"
+    },
+    {
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous softwa",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 02 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 02 Nov 2026 09:35:19 +0000"
     },
     {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -319,121 +364,112 @@
       "published": "Thu, 29 Oct 2026 12:10:00 +0000"
     },
     {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 29 Oct 2026 10:11:12 +0000"
-    },
-    {
-      "title": "Our climate models have a big, dangerous blind spot",
-      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 29 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Wed, 28 Oct 2026 20:32:02 +0000"
-    },
-    {
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth muc",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Wed, 28 Oct 2026 12:10:00 +0000"
-    },
-    {
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "summary": "",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Wed, 28 Oct 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Seabirds racing home over the ocean can get jet-lagged",
-      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sat, 31 Oct 2026 11:15:26 +0000"
+      "published": "Mon, 02 Nov 2026 23:30:16 +0000"
     },
     {
-      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "title": "Why large dogs age faster than small ones, and other October research highlights",
+      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sat, 31 Oct 2026 11:02:34 +0000"
+      "published": "Mon, 02 Nov 2026 22:54:35 +0000"
     },
     {
-      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "summary": "The threat is still considered to be low, but the virus continues to spread.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sat, 31 Oct 2026 00:07:22 +0000"
+      "published": "Mon, 02 Nov 2026 21:21:43 +0000"
     },
     {
-      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "summary": "\"The flow of time is always cruel.\"",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 30 Oct 2026 22:36:41 +0000"
+      "published": "Mon, 02 Nov 2026 19:52:23 +0000"
     },
     {
-      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+      "title": "Most of our measures of a key cognitive process don't agree",
+      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "summary": "A big study with very little beyond negative results still gets published.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 30 Oct 2026 22:21:05 +0000"
+      "published": "Mon, 02 Nov 2026 19:13:26 +0000"
     },
     {
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 30 Oct 2026 21:41:54 +0000"
+      "published": "Mon, 02 Nov 2026 18:32:21 +0000"
     },
     {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 30 Oct 2026 21:09:54 +0000"
+      "published": "Mon, 02 Nov 2026 18:05:31 +0000"
     },
     {
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "summary": "People who love AI don't always love telling others they used it.",
+      "title": "China publicly discloses plan for a lunar landing within three years",
+      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 30 Oct 2026 20:40:13 +0000"
+      "published": "Mon, 02 Nov 2026 17:09:13 +0000"
+    },
+    {
+      "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+      "url": "https://sspai.com/post/118211",
+      "summary": "把喜欢的图烧进 CD 里，你也可以。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 03 Nov 2026 10:53:50 +0800"
+    },
+    {
+      "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+      "url": "https://sspai.com/post/118232",
+      "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 03 Nov 2026 08:18:34 +0800"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/118240",
+      "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 02 Nov 2026 17:57:55 +0800"
+    },
+    {
+      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+      "url": "https://sspai.com/post/118122",
+      "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 02 Nov 2026 15:00:00 +0800"
     },
     {
       "title": "Xnip 十周年：长截图的新生，也是新的起点",
@@ -470,42 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Sat, 31 Oct 2026 13:29:19 +0800"
-    },
-    {
-      "title": "一图流 | 一张图看懂中国版 Apple 智能",
-      "url": "https://sspai.com/post/117953",
-      "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Sat, 31 Oct 2026 12:10:39 +0800"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "url": "https://sspai.com/post/117867",
-      "summary": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 30 Oct 2026 17:57:11 +0800"
-    },
-    {
-      "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
-      "url": "https://sspai.com/post/116047",
-      "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 30 Oct 2026 14:59:21 +0800"
-    },
-    {
-      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
-      "url": "https://sspai.com/prime/story/zhuanglesha-261030",
-      "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 30 Oct 2026 11:30:43 +0800"
     }
   ]
 }
