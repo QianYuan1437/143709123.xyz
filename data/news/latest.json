@@ -1,295 +1,313 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T13:38:17.916464+08:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T13:07:14.072981+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 02 Nov 2026 18:21:28 +0000"
+      "published": "Wed, 04 Nov 2026 00:33:22 +0000"
     },
     {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Nov 2026 01:53:34 +0000"
+      "published": "Wed, 04 Nov 2026 03:20:13 +0000"
     },
     {
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 03 Nov 2026 01:33:43 +0000"
+      "published": "Tue, 03 Nov 2026 21:51:06 +0000"
     },
     {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 02 Nov 2026 17:16:17 +0000"
+      "published": "Mon, 02 Nov 2026 16:29:19 +0000"
     },
     {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 02 Nov 2026 23:47:56 +0000"
+      "published": "Tue, 03 Nov 2026 16:47:29 +0000"
     },
     {
-      "title": "European RISC-V Industrial Computing Initiative",
-      "url": "https://erici.eu",
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 02 Nov 2026 08:58:33 +0000"
+      "published": "Wed, 04 Nov 2026 01:40:42 +0000"
     },
     {
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 02 Nov 2026 16:34:36 +0000"
+      "published": "Wed, 04 Nov 2026 03:40:50 +0000"
     },
     {
-      "title": "Resisting Cognitive Surrender",
-      "url": "https://knlb.dev/essays/surrender",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 01 Nov 2026 06:13:30 +0000"
+      "published": "Tue, 03 Nov 2026 01:18:09 +0000"
     },
     {
-      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
-      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will",
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's dat",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T17:56:11-05:00"
+      "published": "2026-11-03T20:15:34-05:00"
     },
     {
-      "title": "Apple set an iPhone sales record even without a new standard iPhone",
-      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in re",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual sty",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T17:02:36-05:00"
+      "published": "2026-11-03T20:02:53-05:00"
     },
     {
-      "title": "Meta will end Quest 2 OS updates in 2027",
-      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of […]",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the mo",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T16:04:20-05:00"
+      "published": "2026-11-03T19:42:10-05:00"
     },
     {
-      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned ",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T15:37:49-05:00"
+      "published": "2026-11-03T18:37:45-05:00"
     },
     {
-      "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-      "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using i",
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying go",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T15:03:52-05:00"
+      "published": "2026-11-03T17:59:36-05:00"
     },
     {
-      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
-      "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low pr",
+      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "url": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+      "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T14:24:09-05:00"
+      "published": "2026-11-03T17:20:50-05:00"
     },
     {
-      "title": "Ford promises not to sell your driving habits to data brokers",
-      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-      "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, ",
+      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+      "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+      "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed f",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T14:05:46-05:00"
+      "published": "2026-11-03T17:15:33-05:00"
     },
     {
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Cla",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious G",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-02T13:56:02-05:00"
+      "published": "2026-11-03T17:04:02-05:00"
     },
     {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 03 Nov 2026 03:30:00 +0000"
+      "published": "Wed, 04 Nov 2026 04:45:00 +0000"
     },
     {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 03 Nov 2026 01:49:52 +0000"
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000"
     },
     {
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 03 Nov 2026 01:12:55 +0000"
+      "published": "Tue, 03 Nov 2026 22:19:53 +0000"
     },
     {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 03 Nov 2026 00:35:52 +0000"
+      "published": "Tue, 03 Nov 2026 21:43:08 +0000"
     },
     {
-      "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-      "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-      "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 03 Nov 2026 00:14:51 +0000"
+      "published": "Tue, 03 Nov 2026 21:05:55 +0000"
     },
     {
-      "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 02 Nov 2026 23:25:32 +0000"
+      "published": "Tue, 03 Nov 2026 20:57:17 +0000"
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "summary": "The one-year-old startup is now valued at $300 million.",
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+      "summary": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 02 Nov 2026 23:13:53 +0000"
+      "published": "Tue, 03 Nov 2026 19:45:48 +0000"
     },
     {
-      "title": "Apple’s inventory surges 154% as memory chip costs climb",
-      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 02 Nov 2026 23:04:57 +0000"
+      "published": "Tue, 03 Nov 2026 19:34:43 +0000"
     },
     {
-      "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
-      "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
-      "summary": "With Democrats poised to make significant gains in Tuesday’s midterm elections, Trump supporters have been reduced to posting bizarre Star Wars fan fiction.",
+      "title": "Democrats Sweep Republicans in Nearly Every Race That Matters",
+      "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
+      "summary": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 23:17:27 +0000"
+      "published": "Wed, 04 Nov 2026 04:42:46 +0000"
     },
     {
-      "title": "How to Save $25 on Burga’s Phone Accessories With This Sale",
-      "url": "https://www.wired.com/story/burga-sale-november-2026/",
-      "summary": "Whether you need a phone case, magnetic ring, Apple Watch band, or power bank, now’s a great time to save $25 on orders over $50.",
+      "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+      "url": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+      "summary": "Laptop prices keep going up, but this discount on the Lenovo IdeaPad Slim 5x is one of the best deals I’ve seen in months.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 21:30:00 +0000"
+      "published": "Tue, 03 Nov 2026 22:44:01 +0000"
     },
     {
-      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
-      "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
-      "summary": "Black Friday is still weeks away, but you don’t have to wait for a good sale on Dyson vacuums.",
+      "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+      "url": "https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/",
+      "summary": "T-Mobile, AT&T, and Verizon are offering incentives of up to $1,200 off the iPhone Duo, but you will need to commit to a 36-month plan, which can be expensive.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 21:00:00 +0000"
+      "published": "Tue, 03 Nov 2026 21:25:25 +0000"
     },
     {
-      "title": "Best Early Black Friday Espresso Machine Deals (2026)",
-      "url": "https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/",
-      "summary": "Impress your Thanksgiving guests with a cappuccino. These early deals on WIRED-tested favorites leave you time to practice.",
+      "title": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
+      "url": "https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/",
+      "summary": "Influencers, watchdogs, and MAGA pundits are convinced that election fraud is everywhere today, despite a lack of apparent evidence.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 19:38:06 +0000"
+      "published": "Tue, 03 Nov 2026 21:11:00 +0000"
     },
     {
-      "title": "A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress",
-      "url": "https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/",
-      "summary": "The influential Center for Renewing America says that “neo-Marxist progressives and anti-Western Muslims” can’t sincerely swear to protect the Constitution—and shouldn’t be allowed to assume office.",
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+      "summary": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 17:29:17 +0000"
+      "published": "Tue, 03 Nov 2026 19:04:58 +0000"
     },
     {
-      "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
-      "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
-      "summary": "The Capytistas, a secretive group claiming more than $1.2 million in backing, started with Elon Musk and Tesla’s board. Members argue that those who buy political power deserve the scrutiny they’ll impose.",
+      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+      "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "summary": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 17:00:00 +0000"
+      "published": "Tue, 03 Nov 2026 18:04:07 +0000"
     },
     {
-      "title": "Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8",
-      "url": "https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/",
-      "summary": "The first Wi-Fi 8 router has arrived. This quad-band gaming beast from Asus is fabulously fast and feature-packed.",
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 16:44:20 +0000"
+      "published": "Tue, 03 Nov 2026 14:45:08 +0000"
     },
     {
-      "title": "Here’s How the Trump Administration Is Trying to Undermine the Election",
-      "url": "https://www.wired.com/story/the-trump-administration-is-wreaking-havoc-on-the-electoral-system-before-the-midterms/",
-      "summary": "So far, Department of Justice–led efforts to sow chaos, even as Americans are already voting, have fallen flat.",
+      "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
+      "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+      "summary": "The inventive instrument maker collapsed into insolvency, leaving buyers empty-handed and users scrambling to keep their musical gear alive.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Mon, 02 Nov 2026 15:13:39 +0000"
+      "published": "Tue, 03 Nov 2026 14:00:34 +0000"
+    },
+    {
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 03 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 03 Nov 2026 10:43:41 +0000"
     },
     {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -346,94 +364,112 @@
       "published": "Fri, 30 Oct 2026 11:30:00 +0000"
     },
     {
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Fri, 30 Oct 2026 09:00:00 +0000"
-    },
-    {
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing be",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 29 Oct 2026 12:10:00 +0000"
-    },
-    {
-      "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 23:30:16 +0000"
+      "published": "Tue, 03 Nov 2026 22:39:37 +0000"
     },
     {
-      "title": "Why large dogs age faster than small ones, and other October research highlights",
-      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 22:54:35 +0000"
+      "published": "Tue, 03 Nov 2026 20:39:55 +0000"
     },
     {
-      "title": "Third person dies of bird flu since virus started jumping to livestock",
-      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
-      "summary": "The threat is still considered to be low, but the virus continues to spread.",
+      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 21:21:43 +0000"
+      "published": "Tue, 03 Nov 2026 18:30:27 +0000"
     },
     {
-      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-      "summary": "\"The flow of time is always cruel.\"",
+      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 19:52:23 +0000"
+      "published": "Tue, 03 Nov 2026 18:19:31 +0000"
     },
     {
-      "title": "Most of our measures of a key cognitive process don't agree",
-      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-      "summary": "A big study with very little beyond negative results still gets published.",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 19:13:26 +0000"
+      "published": "Tue, 03 Nov 2026 17:54:43 +0000"
     },
     {
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "title": "Another child dies of measles as CDC reportedly holds up health alert",
+      "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+      "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 18:32:21 +0000"
+      "published": "Tue, 03 Nov 2026 17:21:29 +0000"
     },
     {
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "summary": "Google has cut ties with the company behind the botnet campaign.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 18:05:31 +0000"
+      "published": "Tue, 03 Nov 2026 17:08:21 +0000"
     },
     {
-      "title": "China publicly discloses plan for a lunar landing within three years",
-      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 02 Nov 2026 17:09:13 +0000"
+      "published": "Tue, 03 Nov 2026 16:50:32 +0000"
+    },
+    {
+      "title": "国行 Apple 智能上手：这些功能已经准备好",
+      "url": "https://sspai.com/post/118404",
+      "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 04 Nov 2026 10:41:10 +0800"
+    },
+    {
+      "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+      "url": "https://sspai.com/post/118402",
+      "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 04 Nov 2026 08:00:00 +0800"
+    },
+    {
+      "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+      "url": "https://sspai.com/post/118263",
+      "summary": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 03 Nov 2026 22:00:00 +0800"
+    },
+    {
+      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+      "url": "https://sspai.com/post/118317",
+      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 03 Nov 2026 15:12:54 +0800"
     },
     {
       "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
@@ -470,42 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Mon, 02 Nov 2026 15:00:00 +0800"
-    },
-    {
-      "title": "Xnip 十周年：长截图的新生，也是新的起点",
-      "url": "https://sspai.com/post/115662",
-      "summary": "十年是一个里程碑，也是新的起点。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 02 Nov 2026 11:00:41 +0800"
-    },
-    {
-      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
-      "url": "https://sspai.com/post/118191",
-      "summary": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63 亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 02 Nov 2026 07:22:45 +0800"
-    },
-    {
-      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-      "url": "https://sspai.com/post/116991",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Sun, 01 Nov 2026 15:02:46 +0800"
-    },
-    {
-      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
-      "url": "https://sspai.com/post/117960",
-      "summary": "欢迎你在评论区分享 10 月新作的游玩体验。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Sat, 31 Oct 2026 13:29:19 +0800"
     }
   ]
 }
