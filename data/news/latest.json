@@ -1,295 +1,340 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T12:57:48.652655+08:00",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T14:13:51.083063+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "RIP, Harvest",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 09 Nov 2026 01:58:21 +0000"
+      "published": "Mon, 09 Nov 2026 18:01:10 +0000"
     },
     {
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 08 Nov 2026 22:35:35 +0000"
+      "published": "Mon, 09 Nov 2026 19:58:59 +0000"
     },
     {
-      "title": "A Critique of GPUI",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 09 Nov 2026 03:51:10 +0000"
+      "published": "Mon, 09 Nov 2026 18:45:43 +0000"
     },
     {
-      "title": "Unlocking any car from X brand in most of the world",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 09 Nov 2026 00:10:50 +0000"
+      "published": "Mon, 09 Nov 2026 16:00:45 +0000"
     },
     {
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 08 Nov 2026 22:36:03 +0000"
+      "published": "Tue, 10 Nov 2026 00:10:46 +0000"
     },
     {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 08 Nov 2026 19:20:32 +0000"
+      "published": "Mon, 09 Nov 2026 12:19:22 +0000"
     },
     {
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "title": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 08 Nov 2026 23:44:36 +0000"
+      "published": "Tue, 10 Nov 2026 00:07:17 +0000"
     },
     {
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Wed, 04 Nov 2026 17:05:07 +0000"
+      "published": "Tue, 10 Nov 2026 03:59:39 +0000"
     },
     {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has th",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T17:54:50-05:00"
+      "published": "2026-11-09T19:28:49-05:00"
     },
     {
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T17:37:22-05:00"
+      "published": "2026-11-09T18:51:58-05:00"
     },
     {
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibi",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation int",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T15:52:05-05:00"
+      "published": "2026-11-09T18:47:46-05:00"
     },
     {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is ",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T15:22:39-05:00"
+      "published": "2026-11-09T18:07:59-05:00"
     },
     {
-      "title": "Apple is racing to make Siri more agentic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com",
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T14:18:19-05:00"
+      "published": "2026-11-09T16:43:41-05:00"
     },
     {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that ",
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T12:23:19-05:00"
+      "published": "2026-11-09T16:13:16-05:00"
     },
     {
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for ",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"st",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T11:00:00-05:00"
+      "published": "2026-11-09T14:09:58-05:00"
     },
     {
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-08T10:00:30-05:00"
+      "published": "2026-11-09T14:00:00-05:00"
     },
     {
-      "title": "Apps to distract you from the endless cycle of doomscrolling",
-      "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 22:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 05:18:43 +0000"
     },
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 21:00:11 +0000"
+      "published": "Tue, 10 Nov 2026 04:34:15 +0000"
     },
     {
-      "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 21:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 01:27:12 +0000"
     },
     {
-      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 20:30:00 +0000"
+      "published": "Mon, 09 Nov 2026 23:28:37 +0000"
     },
     {
-      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 19:51:30 +0000"
+      "published": "Mon, 09 Nov 2026 23:03:46 +0000"
     },
     {
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "summary": "SNL seems to have its knives out for tech executives.",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 18:00:04 +0000"
+      "published": "Mon, 09 Nov 2026 22:46:09 +0000"
     },
     {
-      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 17:30:00 +0000"
+      "published": "Mon, 09 Nov 2026 22:23:42 +0000"
     },
     {
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Sun, 08 Nov 2026 17:02:00 +0000"
+      "published": "Mon, 09 Nov 2026 20:55:34 +0000"
     },
     {
-      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "url": "https://www.wired.com/gallery/best-computer-speakers/",
-      "summary": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "title": "Rover Promo Codes and Referral Deals for November 2026",
+      "url": "https://www.wired.com/story/rover-promo-code/",
+      "summary": "Score your Rover promo code for November 2026.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "url": "https://www.wired.com/story/naturepedic-promo-code/",
+      "summary": "Shop the Naturepedic sale this November 2026.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
-      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-      "summary": "More evidence that magnets are magical.",
+      "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
+      "url": "https://www.wired.com/story/sams-club-coupon/",
+      "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 11:30:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-      "summary": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "title": "Office Depot Coupons: $20 Off November 2026",
+      "url": "https://www.wired.com/story/office-depot-promo-codes/",
+      "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 11:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
-      "summary": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "title": "Bose Promo Code: 40% Off for November 2026",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
+      "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 10:30:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-      "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "title": "Valvoline Coupons and Promo Codes for November 2026",
+      "url": "https://www.wired.com/story/valvoline-coupons/",
+      "summary": "We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 10:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "title": "Dyson Promo Codes: 25% Off in November 2026",
+      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 10:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "title": "Chirp Discount Codes: 67% Off",
+      "url": "https://www.wired.com/story/chirp-discount-code/",
+      "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sun, 08 Nov 2026 10:00:00 +0000"
+      "published": "Tue, 10 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 19:35:33 +0000"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 17:05:43 +0000"
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air R",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 13:15:00 +0000"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate ",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 10:00:00 +0000"
     },
     {
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -319,121 +364,130 @@
       "published": "Thu, 05 Nov 2026 13:10:00 +0000"
     },
     {
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 05 Nov 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor aga",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Wed, 04 Nov 2026 18:50:55 +0000"
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Wed, 04 Nov 2026 18:21:40 +0000"
-    },
-    {
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Wed, 04 Nov 2026 17:08:00 +0000"
-    },
-    {
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatball",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Wed, 04 Nov 2026 13:10:00 +0000"
-    },
-    {
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sun, 08 Nov 2026 12:15:31 +0000"
+      "published": "Mon, 09 Nov 2026 21:55:35 +0000"
     },
     {
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sat, 07 Nov 2026 12:15:55 +0000"
+      "published": "Mon, 09 Nov 2026 21:13:39 +0000"
     },
     {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Sat, 07 Nov 2026 11:00:34 +0000"
+      "published": "Mon, 09 Nov 2026 20:49:09 +0000"
     },
     {
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "summary": "\"*sshole\" poses a serious threat to Internet security.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 06 Nov 2026 23:09:45 +0000"
+      "published": "Mon, 09 Nov 2026 19:41:34 +0000"
     },
     {
-      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 06 Nov 2026 22:41:37 +0000"
+      "published": "Mon, 09 Nov 2026 19:08:37 +0000"
     },
     {
-      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
-      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 06 Nov 2026 22:08:47 +0000"
+      "published": "Mon, 09 Nov 2026 17:24:26 +0000"
     },
     {
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "summary": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 06 Nov 2026 20:56:41 +0000"
+      "published": "Mon, 09 Nov 2026 15:39:21 +0000"
     },
     {
-      "title": "Earth's churning mantle may have created the Great Unconformity",
-      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-      "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Fri, 06 Nov 2026 20:24:20 +0000"
+      "published": "Mon, 09 Nov 2026 15:23:20 +0000"
+    },
+    {
+      "title": "今年双十一，这些鼠标值得一看",
+      "url": "https://sspai.com/post/111065",
+      "summary": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 10 Nov 2026 11:00:25 +0800"
+    },
+    {
+      "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+      "url": "https://sspai.com/post/118854",
+      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 10 Nov 2026 08:24:40 +0800"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/118833",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 09 Nov 2026 18:27:59 +0800"
+    },
+    {
+      "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+      "url": "https://sspai.com/post/118799",
+      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 09 Nov 2026 16:24:03 +0800"
+    },
+    {
+      "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
+      "url": "https://sspai.com/post/118227",
+      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 09 Nov 2026 15:40:22 +0800"
+    },
+    {
+      "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
+      "url": "https://sspai.com/post/118029",
+      "summary": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 09 Nov 2026 15:02:44 +0800"
     },
     {
       "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
@@ -452,60 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Mon, 09 Nov 2026 06:41:56 +0800"
-    },
-    {
-      "title": "苹果产品那些不够颠覆，却值得被学习的细节",
-      "url": "https://sspai.com/post/118114",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Sun, 08 Nov 2026 11:18:54 +0800"
-    },
-    {
-      "title": "一个 05 后的个人数码编年史",
-      "url": "https://sspai.com/post/116750",
-      "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Sat, 07 Nov 2026 17:05:06 +0800"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "url": "https://sspai.com/post/118623",
-      "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 06 Nov 2026 17:30:15 +0800"
-    },
-    {
-      "title": "iPhone 变强了，但我没有",
-      "url": "https://sspai.com/post/118250",
-      "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 06 Nov 2026 14:56:41 +0800"
-    },
-    {
-      "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-      "url": "https://sspai.com/post/118570",
-      "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 06 Nov 2026 11:06:53 +0800"
-    },
-    {
-      "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-      "url": "https://sspai.com/post/118587",
-      "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Fri, 06 Nov 2026 08:24:39 +0800"
     }
   ]
 }
