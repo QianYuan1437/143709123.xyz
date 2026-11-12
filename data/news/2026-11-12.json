@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T14:01:17.223448+08:00",
+  "total": 56,
+  "articles": [
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 11 Nov 2026 22:34:23 +0000"
+    },
+    {
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 11 Nov 2026 07:03:17 +0000"
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 11 Nov 2026 18:21:38 +0000"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Thu, 12 Nov 2026 02:11:11 +0000"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 11 Nov 2026 22:31:06 +0000"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 11 Nov 2026 18:32:42 +0000"
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 11 Nov 2026 16:38:44 +0000"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 11 Nov 2026 21:24:35 +0000"
+    },
+    {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T17:44:36-05:00"
+    },
+    {
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-frie",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T17:00:00-05:00"
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like ",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T16:54:21-05:00"
+    },
+    {
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers i",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T13:13:52-05:00"
+    },
+    {
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which a",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T12:09:58-05:00"
+    },
+    {
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T11:00:00-05:00"
+    },
+    {
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t ne",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T10:53:55-05:00"
+    },
+    {
+      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-11T10:30:00-05:00"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Thu, 12 Nov 2026 03:13:10 +0000"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 11 Nov 2026 23:50:00 +0000"
+    },
+    {
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 11 Nov 2026 23:28:45 +0000"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 11 Nov 2026 23:17:05 +0000"
+    },
+    {
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 11 Nov 2026 20:15:15 +0000"
+    },
+    {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 11 Nov 2026 20:12:01 +0000"
+    },
+    {
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 11 Nov 2026 20:04:28 +0000"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 11 Nov 2026 19:54:00 +0000"
+    },
+    {
+      "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
+      "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+      "summary": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Thu, 12 Nov 2026 02:33:02 +0000"
+    },
+    {
+      "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+      "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Thu, 12 Nov 2026 01:53:24 +0000"
+    },
+    {
+      "title": "Pete Hegseth Is About to Get His Ass Kicked",
+      "url": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+      "summary": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 11 Nov 2026 22:00:00 +0000"
+    },
+    {
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 11 Nov 2026 19:55:54 +0000"
+    },
+    {
+      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
+      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 11 Nov 2026 17:08:14 +0000"
+    },
+    {
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 11 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 11 Nov 2026 16:13:03 +0000"
+    },
+    {
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 11 Nov 2026 15:30:00 +0000"
+    },
+    {
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 11 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you w",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 11 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of a",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 10 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 10 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 19:35:33 +0000"
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.  I spoke with Wiene",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 17:05:43 +0000"
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air R",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 13:15:00 +0000"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 09 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 23:10:17 +0000"
+    },
+    {
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 20:32:21 +0000"
+    },
+    {
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 20:22:03 +0000"
+    },
+    {
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 19:00:26 +0000"
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 18:16:40 +0000"
+    },
+    {
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 18:05:26 +0000"
+    },
+    {
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 17:37:32 +0000"
+    },
+    {
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "summary": "Apple has already made the forum read-only.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 11 Nov 2026 17:04:26 +0000"
+    },
+    {
+      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+      "url": "https://sspai.com/post/118921",
+      "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 12 Nov 2026 11:12:02 +0800"
+    },
+    {
+      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+      "url": "https://sspai.com/post/118935",
+      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 12 Nov 2026 08:22:09 +0800"
+    },
+    {
+      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+      "url": "https://sspai.com/post/118781",
+      "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 11 Nov 2026 17:30:00 +0800"
+    },
+    {
+      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+      "url": "https://sspai.com/post/118175",
+      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？ 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 11 Nov 2026 14:50:39 +0800"
+    },
+    {
+      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+      "url": "https://sspai.com/post/118458",
+      "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 11 Nov 2026 11:13:04 +0800"
+    },
+    {
+      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+      "url": "https://sspai.com/post/118905",
+      "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 11 Nov 2026 08:26:34 +0800"
+    },
+    {
+      "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+      "url": "https://sspai.com/post/118861",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 10 Nov 2026 16:44:26 +0800"
+    },
+    {
+      "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+      "url": "https://sspai.com/post/118824",
+      "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 10 Nov 2026 16:02:37 +0800"
+    }
+  ]
+}
