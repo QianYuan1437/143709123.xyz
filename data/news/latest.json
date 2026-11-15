@@ -1,151 +1,214 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T13:16:03.111621+08:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T13:09:50.255572+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 14 Nov 2026 02:28:29 +0000"
+      "published": "Sat, 14 Nov 2026 21:22:24 +0000"
     },
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 14 Nov 2026 02:52:59 +0000"
+      "published": "Sat, 14 Nov 2026 17:43:10 +0000"
     },
     {
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 13 Nov 2026 21:05:53 +0000"
+      "published": "Sun, 15 Nov 2026 04:39:25 +0000"
     },
     {
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
+      "title": "Kiri – The Modern Container Runtime",
+      "url": "https://runkiri.com/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 13 Nov 2026 23:06:40 +0000"
+      "published": "Sun, 15 Nov 2026 04:40:41 +0000"
     },
     {
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 14 Nov 2026 00:06:04 +0000"
+      "published": "Sat, 14 Nov 2026 22:22:49 +0000"
     },
     {
-      "title": "What Happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "title": "Osint Case Studies",
+      "url": "https://osintsearch.org/blog/osint-case-studies",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 13 Nov 2026 23:48:59 +0000"
+      "published": "Sun, 15 Nov 2026 03:33:41 +0000"
     },
     {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 13 Nov 2026 23:17:39 +0000"
+      "published": "Sun, 15 Nov 2026 02:00:54 +0000"
     },
     {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 13 Nov 2026 22:04:24 +0000"
+      "published": "Sat, 14 Nov 2026 17:45:19 +0000"
     },
     {
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a tempo",
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been e",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T20:53:04-05:00"
+      "published": "2026-11-14T16:44:44-05:00"
     },
     {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea",
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 w",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T18:49:11-05:00"
+      "published": "2026-11-14T14:47:40-05:00"
     },
     {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and ",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T15:45:10-05:00"
+      "published": "2026-11-14T12:44:28-05:00"
     },
     {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s",
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for a",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T15:30:00-05:00"
+      "published": "2026-11-14T10:00:00-05:00"
     },
     {
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-      "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Micros",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T14:14:38-05:00"
+      "published": "2026-11-14T10:00:00-05:00"
     },
     {
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensingt",
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to b",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T13:10:41-05:00"
+      "published": "2026-11-14T09:18:36-05:00"
     },
     {
-      "title": "Jensen Huang was reckless with the environment, too",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set th",
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use ana",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T12:44:22-05:00"
+      "published": "2026-11-14T09:00:00-05:00"
     },
     {
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller tha",
+      "title": "A gadget to make your dumb house smarter",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school ap",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-13T12:12:56-05:00"
+      "published": "2026-11-14T08:00:00-05:00"
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000"
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 14 Nov 2026 21:41:22 +0000"
+    },
+    {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 14 Nov 2026 20:04:44 +0000"
+    },
+    {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 14 Nov 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 14 Nov 2026 17:45:04 +0000"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 14 Nov 2026 17:30:00 +0000"
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 14 Nov 2026 16:34:15 +0000"
     },
     {
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
@@ -157,139 +220,76 @@
       "published": "Fri, 13 Nov 2026 23:00:00 +0000"
     },
     {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 13 Nov 2026 22:43:00 +0000"
-    },
-    {
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 13 Nov 2026 21:44:38 +0000"
-    },
-    {
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 13 Nov 2026 20:07:24 +0000"
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 13 Nov 2026 19:37:57 +0000"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 13 Nov 2026 18:40:30 +0000"
-    },
-    {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 13 Nov 2026 16:00:12 +0000"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 13 Nov 2026 15:58:00 +0000"
-    },
-    {
-      "title": "The FAA Nationwide Ground Stop Is Over",
-      "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
-      "summary": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Sat, 14 Nov 2026 01:46:40 +0000"
+      "published": "Sat, 14 Nov 2026 13:00:00 +0000"
     },
     {
-      "title": "Best Early Black Friday AirPods Deals (2026)",
-      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
-      "summary": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
+      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 13 Nov 2026 22:30:29 +0000"
+      "published": "Sat, 14 Nov 2026 12:05:00 +0000"
     },
     {
-      "title": "FAA Grounds All US Flights Until Further Notice",
-      "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
-      "summary": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+      "title": "How to Run SteamOS on Your Mac",
+      "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
+      "summary": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 13 Nov 2026 21:42:57 +0000"
+      "published": "Sat, 14 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
-      "url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
-      "summary": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country.",
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 13 Nov 2026 19:58:41 +0000"
+      "published": "Sat, 14 Nov 2026 11:30:00 +0000"
     },
     {
-      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
-      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
-      "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 13 Nov 2026 19:57:56 +0000"
+      "published": "Sat, 14 Nov 2026 11:30:00 +0000"
     },
     {
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+      "summary": "Stock up on outdoor gear and gifts for friends at REI’s annual holiday sale.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 13 Nov 2026 19:08:57 +0000"
+      "published": "Sat, 14 Nov 2026 11:00:00 +0000"
     },
     {
-      "title": "The Microsoft Outage Is a Warning for the World",
-      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
-      "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 13 Nov 2026 17:15:54 +0000"
+      "published": "Sat, 14 Nov 2026 11:00:00 +0000"
     },
     {
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+      "url": "https://www.wired.com/story/best-pickleball-paddles/",
+      "summary": "Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Fri, 13 Nov 2026 16:00:00 +0000"
+      "published": "Sat, 14 Nov 2026 10:37:00 +0000"
     },
     {
       "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -364,6 +364,33 @@
       "published": "Tue, 10 Nov 2026 13:10:00 +0000"
     },
     {
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "summary": "It felt like stepping into the future.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sun, 15 Nov 2026 00:40:59 +0000"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 14 Nov 2026 12:15:48 +0000"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 14 Nov 2026 12:05:51 +0000"
+    },
+    {
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
       "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
       "summary": "One way or another, the company will get some more data on Saturday.",
@@ -409,31 +436,13 @@
       "published": "Fri, 13 Nov 2026 20:03:13 +0000"
     },
     {
-      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Fri, 13 Nov 2026 19:49:16 +0000"
-    },
-    {
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Fri, 13 Nov 2026 17:25:45 +0000"
-    },
-    {
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Fri, 13 Nov 2026 16:26:32 +0000"
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "url": "https://sspai.com/post/118276",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 14 Nov 2026 15:40:21 +0800"
     },
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -497,15 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Thu, 12 Nov 2026 11:12:02 +0800"
-    },
-    {
-      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-      "url": "https://sspai.com/post/118935",
-      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Thu, 12 Nov 2026 08:22:09 +0800"
     }
   ]
 }
