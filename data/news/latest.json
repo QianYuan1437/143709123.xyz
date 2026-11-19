@@ -1,295 +1,322 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T14:14:06.429236+08:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T14:14:41.821012+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "url": "https://calif.io/java4shell/",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 17 Nov 2026 21:11:28 +0000"
+      "published": "Wed, 18 Nov 2026 21:34:07 +0000"
     },
     {
-      "title": "ID.me terms required for IRS sign-in",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Wed, 18 Nov 2026 00:51:45 +0000"
+      "published": "Wed, 18 Nov 2026 15:19:55 +0000"
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Wed, 18 Nov 2026 00:17:58 +0000"
+      "published": "Wed, 18 Nov 2026 23:52:50 +0000"
     },
     {
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "Unreal Tournament 2004 in the Browser",
+      "url": "https://ut2004.dev/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 17 Nov 2026 17:46:43 +0000"
+      "published": "Thu, 19 Nov 2026 01:29:29 +0000"
     },
     {
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 17 Nov 2026 22:13:34 +0000"
+      "published": "Wed, 18 Nov 2026 16:08:24 +0000"
     },
     {
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "url": "https://github.com/microsoft/onnxruntime",
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 17 Nov 2026 23:18:49 +0000"
+      "published": "Wed, 18 Nov 2026 15:38:33 +0000"
     },
     {
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 17 Nov 2026 17:12:06 +0000"
+      "published": "Mon, 16 Nov 2026 14:59:54 +0000"
     },
     {
-      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "title": "Camera Index",
+      "url": "https://www.cameraindex.co.uk/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Wed, 18 Nov 2026 05:11:30 +0000"
+      "published": "Tue, 17 Nov 2026 11:35:33 +0000"
     },
     {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T18:41:18-05:00"
+      "published": "2026-11-18T20:39:45-05:00"
     },
     {
-      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
-      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silico",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without a",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T17:38:41-05:00"
+      "published": "2026-11-18T18:18:35-05:00"
     },
     {
-      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with form",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To h",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T17:32:50-05:00"
+      "published": "2026-11-18T17:05:48-05:00"
     },
     {
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by",
+      "title": "Absolute Batman can save DC Studios",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T17:25:41-05:00"
+      "published": "2026-11-18T16:20:00-05:00"
     },
     {
-      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on t",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T17:05:05-05:00"
+      "published": "2026-11-18T14:40:36-05:00"
     },
     {
-      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is […]",
+      "title": "Nvidia’s rise, visualized",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a seri",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T16:46:20-05:00"
+      "published": "2026-11-18T14:30:00-05:00"
     },
     {
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying ",
+      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
+      "summary": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Be",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T16:40:59-05:00"
+      "published": "2026-11-18T14:30:00-05:00"
     },
     {
-      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
-      "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air t",
+      "title": "Instagram now lets you edit your stories after you post them",
+      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+      "summary": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spo",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-17T16:38:08-05:00"
+      "published": "2026-11-18T14:29:10-05:00"
     },
     {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Wed, 18 Nov 2026 01:44:21 +0000"
+      "published": "Thu, 19 Nov 2026 00:42:56 +0000"
     },
     {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Wed, 18 Nov 2026 00:16:50 +0000"
+      "published": "Thu, 19 Nov 2026 00:40:49 +0000"
     },
     {
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Wed, 18 Nov 2026 00:01:00 +0000"
+      "published": "Wed, 18 Nov 2026 23:45:00 +0000"
     },
     {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 17 Nov 2026 23:37:48 +0000"
+      "published": "Wed, 18 Nov 2026 23:25:17 +0000"
     },
     {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 17 Nov 2026 23:04:35 +0000"
+      "published": "Wed, 18 Nov 2026 23:17:28 +0000"
     },
     {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 17 Nov 2026 22:42:27 +0000"
+      "published": "Wed, 18 Nov 2026 22:58:11 +0000"
     },
     {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 17 Nov 2026 22:29:05 +0000"
+      "published": "Wed, 18 Nov 2026 22:11:15 +0000"
     },
     {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Tue, 17 Nov 2026 21:48:07 +0000"
+      "published": "Wed, 18 Nov 2026 22:04:03 +0000"
     },
     {
-      "title": "Loop Earplugs Discount Codes: 25% Off",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+      "title": "Lego Promo Code | 20% Off November 2026",
+      "url": "https://www.wired.com/story/lego-promo-code/",
+      "summary": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Columbia Promo Codes: 15% Off | November 2026",
-      "url": "https://www.wired.com/story/columbia-promo-code/",
-      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "title": "Reebok Discount Code: 15% Off: November 2026",
+      "url": "https://www.wired.com/story/reebok-discount-code/",
+      "summary": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Walmart Promo Codes: 20% Off for November 2026",
-      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "url": "https://www.wired.com/story/we-vibe-discount-code/",
+      "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Birdfy Discount Codes: 15% Off Sitewide",
-      "url": "https://www.wired.com/story/birdfy-discount-code/",
-      "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "title": "TurboTax Full Service Coupons This November 2026",
+      "url": "https://www.wired.com/story/turbotax-coupon/",
+      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Priceline Promo Codes & Coupons: 10% Off November 2026",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "title": "Sportsman's Warehouse Promo Code: Save in November 2026",
+      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Squarespace Promo Codes: 55% Off in November 2026",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "url": "https://www.wired.com/story/lowes-promo-code/",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Maytag Promo Codes: 15% Off Appliances",
-      "url": "https://www.wired.com/story/maytag-promo-code/",
-      "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+      "title": "Home Chef Promo Codes for November 2026",
+      "url": "https://www.wired.com/story/home-chef-promo-code/",
+      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | November 2026",
-      "url": "https://www.wired.com/story/verizon-promo-code/",
-      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+      "title": "Fanatics Promo Code: 10% Off",
+      "url": "https://www.wired.com/story/fanatics-promo-code/",
+      "summary": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Wed, 18 Nov 2026 06:00:00 +0000"
+      "published": "Thu, 19 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 18 Nov 2026 14:42:44 +0000"
+    },
+    {
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,”",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 18 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 18 Nov 2026 10:20:30 +0000"
     },
     {
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -337,103 +364,112 @@
       "published": "Mon, 16 Nov 2026 18:38:47 +0000"
     },
     {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Mon, 16 Nov 2026 16:04:28 +0000"
-    },
-    {
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology Rev",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Mon, 16 Nov 2026 13:10:00 +0000"
-    },
-    {
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Mon, 16 Nov 2026 13:00:00 +0000"
-    },
-    {
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Wed, 18 Nov 2026 00:27:29 +0000"
+      "published": "Wed, 18 Nov 2026 23:25:04 +0000"
     },
     {
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Tue, 17 Nov 2026 23:09:09 +0000"
+      "published": "Wed, 18 Nov 2026 23:10:39 +0000"
     },
     {
-      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Tue, 17 Nov 2026 22:44:46 +0000"
+      "published": "Wed, 18 Nov 2026 22:08:57 +0000"
     },
     {
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Tue, 17 Nov 2026 22:32:16 +0000"
+      "published": "Wed, 18 Nov 2026 21:29:24 +0000"
     },
     {
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Tue, 17 Nov 2026 20:32:55 +0000"
+      "published": "Wed, 18 Nov 2026 20:41:12 +0000"
     },
     {
-      "title": "Civilization studio Firaxis Games lays off a third of staff",
-      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
-      "summary": "Studio head Heather Hazen is among those departing.",
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Tue, 17 Nov 2026 19:45:25 +0000"
+      "published": "Wed, 18 Nov 2026 19:31:17 +0000"
     },
     {
-      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Tue, 17 Nov 2026 18:26:26 +0000"
+      "published": "Wed, 18 Nov 2026 19:19:33 +0000"
     },
     {
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Tue, 17 Nov 2026 18:13:34 +0000"
+      "published": "Wed, 18 Nov 2026 18:46:08 +0000"
+    },
+    {
+      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+      "url": "https://sspai.com/post/119039",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 19 Nov 2026 10:58:08 +0800"
+    },
+    {
+      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+      "url": "https://sspai.com/post/119239",
+      "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 19 Nov 2026 08:29:30 +0800"
+    },
+    {
+      "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+      "url": "https://sspai.com/post/118985",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 18 Nov 2026 16:59:58 +0800"
+    },
+    {
+      "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+      "url": "https://sspai.com/post/118732",
+      "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 18 Nov 2026 14:54:30 +0800"
     },
     {
       "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
@@ -470,42 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Tue, 17 Nov 2026 17:02:00 +0800"
-    },
-    {
-      "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
-      "url": "https://sspai.com/post/118976",
-      "summary": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Tue, 17 Nov 2026 15:00:00 +0800"
-    },
-    {
-      "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
-      "url": "https://sspai.com/post/118442",
-      "summary": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Tue, 17 Nov 2026 10:59:51 +0800"
-    },
-    {
-      "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-      "url": "https://sspai.com/post/119160",
-      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Tue, 17 Nov 2026 07:57:40 +0800"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/119148",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 16 Nov 2026 18:09:47 +0800"
     }
   ]
 }
