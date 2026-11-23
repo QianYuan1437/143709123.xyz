@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T14:05:35.031109+08:00",
+  "total": 56,
+  "articles": [
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Mon, 23 Nov 2026 01:13:51 +0000"
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Mon, 23 Nov 2026 03:49:24 +0000"
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sun, 22 Nov 2026 10:59:56 +0000"
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sun, 22 Nov 2026 21:01:16 +0000"
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Sun, 22 Nov 2026 19:10:34 +0000"
+    },
+    {
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 18 Nov 2026 15:43:29 +0000"
+    },
+    {
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+      "url": "https://arxiv.org/abs/2506.13771",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Fri, 20 Nov 2026 02:40:48 +0000"
+    },
+    {
+      "title": "A Partial Evaluator for C",
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Mon, 23 Nov 2026 04:51:48 +0000"
+    },
+    {
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy phot",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T22:00:00-05:00"
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The Americ",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T17:48:02-05:00"
+    },
+    {
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is imp",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T12:46:44-05:00"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T12:25:20-05:00"
+    },
+    {
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of [",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T12:00:00-05:00"
+    },
+    {
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional So",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T11:33:29-05:00"
+    },
+    {
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congre",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T10:15:07-05:00"
+    },
+    {
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporari",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-22T09:00:00-05:00"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Mon, 23 Nov 2026 01:25:53 +0000"
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 21:42:48 +0000"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 21:14:07 +0000"
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 18:08:43 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 17:06:00 +0000"
+    },
+    {
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sat, 21 Nov 2026 21:37:10 +0000"
+    },
+    {
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 11:30:00 +0000"
+    },
+    {
+      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 11:02:00 +0000"
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 10:30:00 +0000"
+    },
+    {
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000"
+    },
+    {
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sat, 21 Nov 2026 12:01:00 +0000"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 20 Nov 2026 18:15:15 +0000"
+    },
+    {
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brai",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 20 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outsid",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 19 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor ",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000"
+    },
+    {
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 19 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 18 Nov 2026 14:42:44 +0000"
+    },
+    {
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,”",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 18 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 18 Nov 2026 10:20:30 +0000"
+    },
+    {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sun, 22 Nov 2026 12:07:41 +0000"
+    },
+    {
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 21 Nov 2026 22:12:41 +0000"
+    },
+    {
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sat, 21 Nov 2026 12:01:13 +0000"
+    },
+    {
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 20 Nov 2026 22:28:24 +0000"
+    },
+    {
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 20 Nov 2026 22:16:51 +0000"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 20 Nov 2026 21:58:29 +0000"
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 20 Nov 2026 21:47:10 +0000"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Fri, 20 Nov 2026 20:59:08 +0000"
+    },
+    {
+      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+      "url": "https://sspai.com/post/119418",
+      "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 23 Nov 2026 07:34:27 +0800"
+    },
+    {
+      "title": "从深圳到上海，少数派的共创故事还在继续",
+      "url": "https://sspai.com/post/119318",
+      "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sun, 22 Nov 2026 09:05:44 +0800"
+    },
+    {
+      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+      "url": "https://sspai.com/post/119291",
+      "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Sat, 21 Nov 2026 12:00:00 +0800"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/119337",
+      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 20 Nov 2026 17:54:01 +0800"
+    },
+    {
+      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+      "url": "https://sspai.com/post/119327",
+      "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 20 Nov 2026 15:34:26 +0800"
+    },
+    {
+      "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+      "url": "https://sspai.com/post/118879",
+      "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 20 Nov 2026 10:47:52 +0800"
+    },
+    {
+      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+      "url": "https://sspai.com/post/119311",
+      "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 20 Nov 2026 08:34:31 +0800"
+    },
+    {
+      "title": "给 Apple 的 2026 年打分，请你一起参与",
+      "url": "https://sspai.com/post/119191",
+      "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 19 Nov 2026 18:25:05 +0800"
+    }
+  ]
+}

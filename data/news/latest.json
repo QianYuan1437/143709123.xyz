@@ -1,151 +1,214 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T13:28:08.001582+08:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T14:05:35.031109+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 22 Nov 2026 04:04:56 +0000"
+      "published": "Mon, 23 Nov 2026 01:13:51 +0000"
     },
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 20 Nov 2026 21:03:12 +0000"
+      "published": "Mon, 23 Nov 2026 03:49:24 +0000"
     },
     {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 21 Nov 2026 14:36:45 +0000"
+      "published": "Sun, 22 Nov 2026 10:59:56 +0000"
     },
     {
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 22 Nov 2026 00:07:59 +0000"
+      "published": "Sun, 22 Nov 2026 21:01:16 +0000"
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 21 Nov 2026 18:02:19 +0000"
+      "published": "Sun, 22 Nov 2026 19:10:34 +0000"
     },
     {
-      "title": "Detonating a pile of lead azide",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 21 Nov 2026 13:23:14 +0000"
+      "published": "Wed, 18 Nov 2026 15:43:29 +0000"
     },
     {
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+      "url": "https://arxiv.org/abs/2506.13771",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 22 Nov 2026 02:14:14 +0000"
+      "published": "Fri, 20 Nov 2026 02:40:48 +0000"
     },
     {
-      "title": "Getting the mind to steer the body to steer you",
-      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "title": "A Partial Evaluator for C",
+      "url": "https://phoenix.labri.fr/software/tempo/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Fri, 20 Nov 2026 22:11:05 +0000"
+      "published": "Mon, 23 Nov 2026 04:51:48 +0000"
     },
     {
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-p",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy phot",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T16:59:31-05:00"
+      "published": "2026-11-22T22:00:00-05:00"
     },
     {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiat",
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The Americ",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T15:03:37-05:00"
+      "published": "2026-11-22T17:48:02-05:00"
     },
     {
-      "title": "The FBI and USDA were reportedly hacked",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state,",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is imp",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T12:42:27-05:00"
+      "published": "2026-11-22T12:46:44-05:00"
     },
     {
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life,",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T11:00:00-05:00"
+      "published": "2026-11-22T12:25:20-05:00"
     },
     {
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying fam",
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of [",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T11:00:00-05:00"
+      "published": "2026-11-22T12:00:00-05:00"
     },
     {
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver",
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "url": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional So",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T10:00:00-05:00"
+      "published": "2026-11-22T11:33:29-05:00"
     },
     {
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and p",
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congre",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T09:55:28-05:00"
+      "published": "2026-11-22T10:15:07-05:00"
     },
     {
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of ",
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporari",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-21T09:00:00-05:00"
+      "published": "2026-11-22T09:00:00-05:00"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Mon, 23 Nov 2026 01:25:53 +0000"
+    },
+    {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 21:42:48 +0000"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 21:14:07 +0000"
+    },
+    {
+      "title": "The best apps to make new friends right now",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 18:08:43 +0000"
+    },
+    {
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 17:06:00 +0000"
+    },
+    {
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Sun, 22 Nov 2026 15:00:00 +0000"
     },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -157,67 +220,58 @@
       "published": "Sat, 21 Nov 2026 21:37:10 +0000"
     },
     {
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Sat, 21 Nov 2026 21:07:42 +0000"
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "summary": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 12:00:00 +0000"
     },
     {
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Sat, 21 Nov 2026 18:44:53 +0000"
+      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+      "summary": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 11:30:00 +0000"
     },
     {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Sat, 21 Nov 2026 17:00:00 +0000"
+      "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+      "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 11:02:00 +0000"
     },
     {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Sat, 21 Nov 2026 16:00:00 +0000"
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 11:00:00 +0000"
     },
     {
-      "title": "Alaska, your next governor is a Wikipedia nerd",
-      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Sat, 21 Nov 2026 15:18:29 +0000"
+      "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 10:30:00 +0000"
     },
     {
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Sat, 21 Nov 2026 04:00:00 +0000"
-    },
-    {
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-      "source": "TechCrunch",
-      "category": "创业科技",
-      "icon": "🚀",
-      "published": "Fri, 20 Nov 2026 20:58:29 +0000"
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Sun, 22 Nov 2026 10:00:00 +0000"
     },
     {
       "title": "The Outages Are Just Getting Started",
@@ -236,60 +290,6 @@
       "category": "科技文化",
       "icon": "⚡",
       "published": "Sat, 21 Nov 2026 12:01:00 +0000"
-    },
-    {
-      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
-      "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
-      "source": "Wired",
-      "category": "科技文化",
-      "icon": "⚡",
-      "published": "Sat, 21 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-      "url": "https://www.wired.com/review/sony-bravia-9-ii/",
-      "summary": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features.",
-      "source": "Wired",
-      "category": "科技文化",
-      "icon": "⚡",
-      "published": "Sat, 21 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
-      "summary": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off.",
-      "source": "Wired",
-      "category": "科技文化",
-      "icon": "⚡",
-      "published": "Sat, 21 Nov 2026 11:30:00 +0000"
-    },
-    {
-      "title": "Best Laptops for Travel (2026): Which to Take on the Road",
-      "url": "https://www.wired.com/story/best-laptops-for-travel/",
-      "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
-      "source": "Wired",
-      "category": "科技文化",
-      "icon": "⚡",
-      "published": "Sat, 21 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "title": "17 Best Gifts for Women in the Enshittocene (2026)",
-      "url": "https://www.wired.com/story/best-gifts-for-women/",
-      "summary": "The least you can do is buy her something nice.",
-      "source": "Wired",
-      "category": "科技文化",
-      "icon": "⚡",
-      "published": "Sat, 21 Nov 2026 10:02:00 +0000"
-    },
-    {
-      "title": "The Manosphere Isn’t Ready for Brothercore",
-      "url": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
-      "summary": "Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart.",
-      "source": "Wired",
-      "category": "科技文化",
-      "icon": "⚡",
-      "published": "Sat, 21 Nov 2026 10:00:00 +0000"
     },
     {
       "title": "The most misunderstood graph in AI just got a major update",
@@ -364,6 +364,15 @@
       "published": "Wed, 18 Nov 2026 10:20:30 +0000"
     },
     {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Sun, 22 Nov 2026 12:07:41 +0000"
+    },
+    {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
       "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
       "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
@@ -427,13 +436,13 @@
       "published": "Fri, 20 Nov 2026 20:59:08 +0000"
     },
     {
-      "title": "Watching as a giant star swallowed its neighbor and exploded",
-      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-      "source": "Ars Technica",
-      "category": "深度科技",
-      "icon": "🖥️",
-      "published": "Fri, 20 Nov 2026 20:41:17 +0000"
+      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+      "url": "https://sspai.com/post/119418",
+      "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 23 Nov 2026 07:34:27 +0800"
     },
     {
       "title": "从深圳到上海，少数派的共创故事还在继续",
@@ -497,15 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Thu, 19 Nov 2026 18:25:05 +0800"
-    },
-    {
-      "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/119287",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Thu, 19 Nov 2026 17:16:00 +0800"
     }
   ]
 }
