@@ -1,295 +1,322 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T16:44:24.244273+08:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T15:19:15.665611+08:00",
   "total": 56,
   "articles": [
     {
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 23 Nov 2026 16:13:12 +0000"
+      "published": "Wed, 25 Nov 2026 01:19:26 +0000"
     },
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 23 Nov 2026 22:32:29 +0000"
+      "published": "Wed, 25 Nov 2026 03:23:07 +0000"
     },
     {
-      "title": "2035 Came Early",
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 24 Nov 2026 06:30:33 +0000"
+      "published": "Wed, 25 Nov 2026 02:34:21 +0000"
     },
     {
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 24 Nov 2026 05:15:22 +0000"
+      "published": "Wed, 25 Nov 2026 04:31:48 +0000"
     },
     {
-      "title": "Drone Maps of Salvage Yards",
-      "url": "https://salvageyarddrone.wordpress.com/",
+      "title": "I've been drinking wine in my kitchen",
+      "url": "https://scottaaronson.blog/?p=10362",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Tue, 24 Nov 2026 04:00:28 +0000"
+      "published": "Wed, 25 Nov 2026 03:02:10 +0000"
     },
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Mon, 23 Nov 2026 14:00:18 +0000"
+      "published": "Tue, 24 Nov 2026 20:08:03 +0000"
     },
     {
-      "title": "Ride the SQL curve from basics to mastery",
-      "url": "https://sqlride.com/",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sat, 21 Nov 2026 19:56:36 +0000"
+      "published": "Wed, 25 Nov 2026 00:54:49 +0000"
     },
     {
-      "title": "Modernizing iperf/iperf3 and introducing fireperf",
-      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
       "summary": "Comments",
       "source": "Hacker News",
       "category": "综合科技",
       "icon": "🔶",
-      "published": "Sun, 22 Nov 2026 22:37:51 +0000"
+      "published": "Wed, 25 Nov 2026 03:04:37 +0000"
     },
     {
-      "title": "Google alternative Kagi launches an email service",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Ka",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't off",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T19:02:52-05:00"
+      "published": "2026-11-24T20:00:00-05:00"
     },
     {
-      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, year",
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated thi",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T18:25:01-05:00"
+      "published": "2026-11-24T18:59:29-05:00"
     },
     {
-      "title": "The Verge’s 2026 holiday gift guide",
-      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-      "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things r",
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to det",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T18:14:10-05:00"
+      "published": "2026-11-24T18:25:46-05:00"
     },
     {
-      "title": "Ladybird, the first new browser engine in years, is now available to test",
-      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first",
+      "title": "Huawei found guilty of stealing trade secrets",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from seve",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T17:38:09-05:00"
+      "published": "2026-11-24T17:23:27-05:00"
     },
     {
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua",
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leak",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T17:25:12-05:00"
+      "published": "2026-11-24T16:39:14-05:00"
     },
     {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia execu",
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T17:10:32-05:00"
+      "published": "2026-11-24T16:09:59-05:00"
     },
     {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is ",
+      "title": "TikTok was down",
+      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasion",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T17:09:26-05:00"
+      "published": "2026-11-24T15:27:27-05:00"
     },
     {
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale pric",
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske",
       "source": "The Verge",
       "category": "科技资讯",
       "icon": "📱",
-      "published": "2026-11-23T16:36:48-05:00"
+      "published": "2026-11-24T15:02:03-05:00"
     },
     {
-      "title": "Figma employee sues, alleging company forced her to confront harassers",
-      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 23:07:49 +0000"
+      "published": "Wed, 25 Nov 2026 00:12:02 +0000"
     },
     {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 22:05:50 +0000"
+      "published": "Wed, 25 Nov 2026 00:10:27 +0000"
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 22:02:05 +0000"
+      "published": "Tue, 24 Nov 2026 22:27:52 +0000"
     },
     {
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 21:47:41 +0000"
+      "published": "Tue, 24 Nov 2026 21:48:27 +0000"
     },
     {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 21:25:42 +0000"
+      "published": "Tue, 24 Nov 2026 21:33:29 +0000"
     },
     {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 20:38:53 +0000"
+      "published": "Tue, 24 Nov 2026 21:32:38 +0000"
     },
     {
-      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 19:31:41 +0000"
+      "published": "Tue, 24 Nov 2026 21:19:52 +0000"
     },
     {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
       "source": "TechCrunch",
       "category": "创业科技",
       "icon": "🚀",
-      "published": "Mon, 23 Nov 2026 19:14:46 +0000"
+      "published": "Tue, 24 Nov 2026 21:09:04 +0000"
     },
     {
-      "title": "B&H Photo Promo Codes and Deals This November 2026",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "title": "NordVPN Coupons: 75% Off + 3 Months Free",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Hoka Coupon Codes: 30% Off in November 2026",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
+      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "url": "https://www.wired.com/story/noom-promo-code/",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Layla Sleep Coupon: Save Up to $600 in November 2026",
-      "url": "https://www.wired.com/story/layla-sleep-coupon/",
-      "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in November 2026.",
+      "title": "Klook Promo Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/klook-promo-code/",
+      "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Chegg Coupon Codes November 2026: Save on Study, Textbooks, & More",
-      "url": "https://www.wired.com/story/chegg-coupon-code/",
-      "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "title": "Adidas Promo Code | 60% Off | November 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Mattress Firm Coupons: Save up to $700",
-      "url": "https://www.wired.com/story/mattress-firm-coupon/",
-      "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "title": "Uplift Promo Codes: $300 Off",
+      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
     },
     {
-      "title": "Herman Miller Promo Codes: 40% Off November 2026",
-      "url": "https://www.wired.com/story/herman-miller-promo-code/",
-      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in November 2026.",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Tue, 24 Nov 2026 23:39:04 +0000"
     },
     {
-      "title": "HP Coupon Codes and Deals November 2026",
-      "url": "https://www.wired.com/story/hp-coupon-code/",
-      "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
       "source": "Wired",
       "category": "科技文化",
       "icon": "⚡",
-      "published": "Tue, 24 Nov 2026 06:00:00 +0000"
+      "published": "Tue, 24 Nov 2026 22:22:20 +0000"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 15:15:16 +0000"
+    },
+    {
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a w",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 11:00:00 +0000"
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -337,103 +364,103 @@
       "published": "Fri, 20 Nov 2026 13:10:00 +0000"
     },
     {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outsid",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 19 Nov 2026 13:10:00 +0000"
-    },
-    {
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor ",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 19 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "What a billion-dollar deal says about the US battery market",
-      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
-      "source": "MIT Technology Review",
-      "category": "前沿技术",
-      "icon": "🔬",
-      "published": "Thu, 19 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
-      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 21:58:34 +0000"
+      "published": "Tue, 24 Nov 2026 22:50:11 +0000"
     },
     {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 21:30:44 +0000"
+      "published": "Tue, 24 Nov 2026 22:36:28 +0000"
     },
     {
-      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-      "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 20:34:51 +0000"
+      "published": "Tue, 24 Nov 2026 20:34:53 +0000"
     },
     {
-      "title": "Surveillance pricing uses our personal data to make us pay more",
-      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-      "summary": "Personalized pricing can mean unfair, and even biased, prices.",
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 20:11:43 +0000"
+      "published": "Tue, 24 Nov 2026 20:00:18 +0000"
     },
     {
-      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
-      "summary": "Amazon now uses its packages for political purposes.",
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 19:38:13 +0000"
+      "published": "Tue, 24 Nov 2026 18:47:57 +0000"
     },
     {
-      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
-      "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
-      "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 19:28:30 +0000"
+      "published": "Tue, 24 Nov 2026 18:30:36 +0000"
     },
     {
-      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-      "summary": "\"All of you have lived stolen lives. But now you must give them back.\"",
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 15:55:12 +0000"
+      "published": "Tue, 24 Nov 2026 18:18:37 +0000"
     },
     {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+      "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
       "source": "Ars Technica",
       "category": "深度科技",
       "icon": "🖥️",
-      "published": "Mon, 23 Nov 2026 15:46:18 +0000"
+      "published": "Tue, 24 Nov 2026 18:03:58 +0000"
+    },
+    {
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "url": "https://sspai.com/post/118791",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 25 Nov 2026 11:07:41 +0800"
+    },
+    {
+      "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+      "url": "https://sspai.com/post/119527",
+      "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 25 Nov 2026 08:22:35 +0800"
+    },
+    {
+      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+      "url": "https://sspai.com/post/119492",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 24 Nov 2026 17:14:11 +0800"
     },
     {
       "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
@@ -479,33 +506,6 @@
       "category": "数字生活",
       "icon": "📲",
       "published": "Mon, 23 Nov 2026 18:00:30 +0800"
-    },
-    {
-      "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
-      "url": "https://sspai.com/post/119023",
-      "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ... 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 23 Nov 2026 15:12:24 +0800"
-    },
-    {
-      "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
-      "url": "https://sspai.com/post/118705",
-      "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 23 Nov 2026 14:00:53 +0800"
-    },
-    {
-      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-      "url": "https://sspai.com/post/119418",
-      "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6 首日销售额近 40 亿美元 特斯拉升级 FSD，推出实景渲染功能 AMD 股票被做空 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "source": "少数派",
-      "category": "数字生活",
-      "icon": "📲",
-      "published": "Mon, 23 Nov 2026 07:34:27 +0800"
     }
   ]
 }

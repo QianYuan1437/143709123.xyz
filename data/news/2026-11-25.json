@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T15:19:15.665611+08:00",
+  "total": 56,
+  "articles": [
+    {
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Nov 2026 01:19:26 +0000"
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Nov 2026 03:23:07 +0000"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Nov 2026 02:34:21 +0000"
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Nov 2026 04:31:48 +0000"
+    },
+    {
+      "title": "I've been drinking wine in my kitchen",
+      "url": "https://scottaaronson.blog/?p=10362",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Nov 2026 03:02:10 +0000"
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Tue, 24 Nov 2026 20:08:03 +0000"
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Nov 2026 00:54:49 +0000"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Wed, 25 Nov 2026 03:04:37 +0000"
+    },
+    {
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't off",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T20:00:00-05:00"
+    },
+    {
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated thi",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T18:59:29-05:00"
+    },
+    {
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
+      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to det",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T18:25:46-05:00"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from seve",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T17:23:27-05:00"
+    },
+    {
+      "title": "GTA VI PC recompilation project shut down by Take-Two",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leak",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T16:39:14-05:00"
+    },
+    {
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T16:09:59-05:00"
+    },
+    {
+      "title": "TikTok was down",
+      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+      "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasion",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T15:27:27-05:00"
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-24T15:02:03-05:00"
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 25 Nov 2026 00:12:02 +0000"
+    },
+    {
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 25 Nov 2026 00:10:27 +0000"
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Tue, 24 Nov 2026 22:27:52 +0000"
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Tue, 24 Nov 2026 21:48:27 +0000"
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Tue, 24 Nov 2026 21:33:29 +0000"
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Tue, 24 Nov 2026 21:32:38 +0000"
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Tue, 24 Nov 2026 21:19:52 +0000"
+    },
+    {
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Tue, 24 Nov 2026 21:09:04 +0000"
+    },
+    {
+      "title": "NordVPN Coupons: 75% Off + 3 Months Free",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Wayfair Coupons: Up to 80% Off November 2026",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+      "url": "https://www.wired.com/story/noom-promo-code/",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Klook Promo Code: 20% Off November 2026",
+      "url": "https://www.wired.com/story/klook-promo-code/",
+      "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Adidas Promo Code | 60% Off | November 2026",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Uplift Promo Codes: $300 Off",
+      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Wed, 25 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Tue, 24 Nov 2026 23:39:04 +0000"
+    },
+    {
+      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
+      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
+      "summary": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Tue, 24 Nov 2026 22:22:20 +0000"
+    },
+    {
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 15:15:16 +0000"
+    },
+    {
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a w",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 23 Nov 2026 17:36:08 +0000"
+    },
+    {
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponenti",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 23 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 20 Nov 2026 18:15:15 +0000"
+    },
+    {
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brai",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Fri, 20 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 22:50:11 +0000"
+    },
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 22:36:28 +0000"
+    },
+    {
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 20:34:53 +0000"
+    },
+    {
+      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 20:00:18 +0000"
+    },
+    {
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 18:47:57 +0000"
+    },
+    {
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 18:30:36 +0000"
+    },
+    {
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 18:18:37 +0000"
+    },
+    {
+      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
+      "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Tue, 24 Nov 2026 18:03:58 +0000"
+    },
+    {
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "url": "https://sspai.com/post/118791",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 25 Nov 2026 11:07:41 +0800"
+    },
+    {
+      "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+      "url": "https://sspai.com/post/119527",
+      "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 25 Nov 2026 08:22:35 +0800"
+    },
+    {
+      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+      "url": "https://sspai.com/post/119492",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 24 Nov 2026 17:14:11 +0800"
+    },
+    {
+      "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+      "url": "https://sspai.com/post/119035",
+      "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 24 Nov 2026 15:38:42 +0800"
+    },
+    {
+      "title": "写在动荡之后：漫步巴黎的寻常一日",
+      "url": "https://sspai.com/post/119412",
+      "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 24 Nov 2026 11:03:10 +0800"
+    },
+    {
+      "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+      "url": "https://sspai.com/post/119460",
+      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Tue, 24 Nov 2026 08:37:31 +0800"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/119438",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 23 Nov 2026 18:08:29 +0800"
+    },
+    {
+      "title": "怪手机们要回来了吗？",
+      "url": "https://sspai.com/prime/story/weird-phones-are-returning",
+      "summary": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Mon, 23 Nov 2026 18:00:30 +0800"
+    }
+  ]
+}
