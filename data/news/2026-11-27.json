@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T15:03:11.800073+08:00",
+  "total": 56,
+  "articles": [
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Fri, 27 Nov 2026 05:22:06 +0000"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Thu, 26 Nov 2026 21:47:45 +0000"
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Fri, 27 Nov 2026 06:44:34 +0000"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Fri, 27 Nov 2026 01:13:49 +0000"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Thu, 26 Nov 2026 17:36:47 +0000"
+    },
+    {
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Thu, 26 Nov 2026 21:08:05 +0000"
+    },
+    {
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Fri, 27 Nov 2026 04:56:18 +0000"
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "Comments",
+      "source": "Hacker News",
+      "category": "综合科技",
+      "icon": "🔶",
+      "published": "Thu, 26 Nov 2026 17:11:29 +0000"
+    },
+    {
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some ",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T16:00:00-05:00"
+    },
+    {
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks ",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T14:00:00-05:00"
+    },
+    {
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T12:07:00-05:00"
+    },
+    {
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says c",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T12:06:24-05:00"
+    },
+    {
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T11:55:00-05:00"
+    },
+    {
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights an",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T11:38:00-05:00"
+    },
+    {
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T11:00:00-05:00"
+    },
+    {
+      "title": "GTA VI developers vote against unionization",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organi",
+      "source": "The Verge",
+      "category": "科技资讯",
+      "icon": "📱",
+      "published": "2026-11-26T10:55:24-05:00"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Thu, 26 Nov 2026 20:03:54 +0000"
+    },
+    {
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Thu, 26 Nov 2026 20:00:00 +0000"
+    },
+    {
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Thu, 26 Nov 2026 19:31:50 +0000"
+    },
+    {
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Thu, 26 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Thu, 26 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 25 Nov 2026 22:44:32 +0000"
+    },
+    {
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 25 Nov 2026 20:56:44 +0000"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source": "TechCrunch",
+      "category": "创业科技",
+      "icon": "🚀",
+      "published": "Wed, 25 Nov 2026 20:03:27 +0000"
+    },
+    {
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 07:00:00 +0000"
+    },
+    {
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Home Depot Promo Codes: 30% Off in November 2026",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "summary": "Save up to 30% today with the latest Home Depot promo codes for appliances, power tools, and more this November.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Peacock Promo Codes: 40% Off November 2026",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Dell Coupon Codes: 20% Off for November 2026",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Newegg Promo Codes and Coupons for November 2026",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "Whoop Promo Codes: 20% Off This November 2026",
+      "url": "https://www.wired.com/story/whoop-promo-code/",
+      "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+      "source": "Wired",
+      "category": "科技文化",
+      "icon": "⚡",
+      "published": "Fri, 27 Nov 2026 06:00:00 +0000"
+    },
+    {
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. Bu",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 26 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Thu, 26 Nov 2026 09:59:00 +0000"
+    },
+    {
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 25 Nov 2026 17:00:00 +0000"
+    },
+    {
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have rai",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 25 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Wed, 25 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, a w",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 13:10:00 +0000"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Tue, 24 Nov 2026 11:00:00 +0000"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+      "source": "MIT Technology Review",
+      "category": "前沿技术",
+      "icon": "🔬",
+      "published": "Mon, 23 Nov 2026 17:36:08 +0000"
+    },
+    {
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Thu, 26 Nov 2026 18:00:29 +0000"
+    },
+    {
+      "title": "Draining peatlands is responsible for a few percent of our global warming",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Thu, 26 Nov 2026 12:15:42 +0000"
+    },
+    {
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Thu, 26 Nov 2026 12:00:14 +0000"
+    },
+    {
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 25 Nov 2026 22:36:45 +0000"
+    },
+    {
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 25 Nov 2026 20:57:09 +0000"
+    },
+    {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 25 Nov 2026 18:38:29 +0000"
+    },
+    {
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 25 Nov 2026 18:22:38 +0000"
+    },
+    {
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+      "source": "Ars Technica",
+      "category": "深度科技",
+      "icon": "🖥️",
+      "published": "Wed, 25 Nov 2026 17:33:30 +0000"
+    },
+    {
+      "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+      "url": "https://sspai.com/post/119601",
+      "summary": "先预祝大家买得愉快、用得舒心。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Nov 2026 11:48:17 +0800"
+    },
+    {
+      "title": "派早报：1Password 确认内部系统遭入侵等",
+      "url": "https://sspai.com/post/119632",
+      "summary": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Fri, 27 Nov 2026 08:27:38 +0800"
+    },
+    {
+      "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+      "url": "https://sspai.com/post/116773",
+      "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 26 Nov 2026 17:30:00 +0800"
+    },
+    {
+      "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+      "url": "https://sspai.com/post/119563",
+      "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 26 Nov 2026 15:00:00 +0800"
+    },
+    {
+      "title": "我用AI做了一张两千年的中国历史地图",
+      "url": "https://sspai.com/post/117510",
+      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 26 Nov 2026 11:13:53 +0800"
+    },
+    {
+      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+      "url": "https://sspai.com/post/119560",
+      "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Thu, 26 Nov 2026 08:08:07 +0800"
+    },
+    {
+      "title": "翻开 2027， 值得入手的新年日历推荐",
+      "url": "https://sspai.com/post/119264",
+      "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ... 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 25 Nov 2026 17:48:34 +0800"
+    },
+    {
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "url": "https://sspai.com/post/119310",
+      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
+      "source": "少数派",
+      "category": "数字生活",
+      "icon": "📲",
+      "published": "Wed, 25 Nov 2026 14:59:16 +0800"
+    }
+  ]
+}
